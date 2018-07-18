@@ -1,0 +1,1045 @@
+{
+    "nodes": [{
+        "id": 0,
+        "label": "CSE 105"
+    }, {
+        "id": 1,
+        "label": "CSE 12"
+    }, {
+        "id": 2,
+        "label": "CSE 21"
+    }, {
+        "id": 3,
+        "label": "CSE 20"
+    }, {
+        "id": 4,
+        "label": "Math 184"
+    }, {
+        "id": 5,
+        "label": "CSE 15L"
+    }, {
+        "id": 6,
+        "label": "Math 100A"
+    }, {
+        "id": 7,
+        "label": "Math 109"
+    }, {
+        "id": 8,
+        "label": "Math 103A"
+    }, {
+        "id": 9,
+        "label": "Math 15A"
+    }, {
+        "id": 10,
+        "label": "CSE 107"
+    }, {
+        "id": 11,
+        "label": "CSE 101"
+    }, {
+        "id": 12,
+        "label": "Math 184A"
+    }, {
+        "id": 13,
+        "label": "Math 15B"
+    }, {
+        "id": 14,
+        "label": "Math 166"
+    }, {
+        "id": 15,
+        "label": "Math 154"
+    }, {
+        "id": 16,
+        "label": "Math 176"
+    }, {
+        "id": 17,
+        "label": "CSE 100"
+    }, {
+        "id": 18,
+        "label": "CSE 103"
+    }, {
+        "id": 19,
+        "label": "GLBH 20"
+    }, {
+        "id": 20,
+        "label": "POLI 244"
+    }, {
+        "id": 21,
+        "label": "PHIL 33"
+    }, {
+        "id": 22,
+        "label": "PHIL 32"
+    }, {
+        "id": 23,
+        "label": "PHIL 31"
+    }, {
+        "id": 24,
+        "label": "HIEU 172/272"
+    }, {
+        "id": 25,
+        "label": "PHIL 35"
+    }, {
+        "id": 26,
+        "label": "PHYS 164"
+    }, {
+        "id": 27,
+        "label": "Physics 160"
+    }, {
+        "id": 28,
+        "label": "Physics 2A"
+    }, {
+        "id": 29,
+        "label": "Physics 162"
+    }, {
+        "id": 30,
+        "label": "Physics 2C"
+    }, {
+        "id": 31,
+        "label": "Physics 2B"
+    }, {
+        "id": 32,
+        "label": "Physics 2D"
+    }, {
+        "id": 33,
+        "label": "Physics 161"
+    }, {
+        "id": 34,
+        "label": "Physics 163"
+    }, {
+        "id": 35,
+        "label": "Physics 4E"
+    }, {
+        "id": 36,
+        "label": "Physics 4D"
+    }, {
+        "id": 37,
+        "label": "Physics 4C"
+    }, {
+        "id": 38,
+        "label": "Physics 4B"
+    }, {
+        "id": 39,
+        "label": "Physics 4A"
+    }, {
+        "id": 40,
+        "label": "PHYS 163"
+    }, {
+        "id": 41,
+        "label": "PHYS 162"
+    }, {
+        "id": 42,
+        "label": "PHYS 161"
+    }, {
+        "id": 43,
+        "label": "PHYS 160"
+    }, {
+        "id": 44,
+        "label": "CSE 222B"
+    }, {
+        "id": 45,
+        "label": "CSE 222A"
+    }, {
+        "id": 46,
+        "label": "CSE 123A"
+    }, {
+        "id": 47,
+        "label": "CAT 199"
+    }, {
+        "id": 48,
+        "label": "CAT 1"
+    }, {
+        "id": 49,
+        "label": "CAT 3"
+    }, {
+        "id": 50,
+        "label": "CAT 2"
+    }, {
+        "id": 51,
+        "label": "CAT 198"
+    }, {
+        "id": 52,
+        "label": "CAT 195"
+    }, {
+        "id": 53,
+        "label": "CAT 197"
+    }, {
+        "id": 54,
+        "label": "CAT 192"
+    }, {
+        "id": 55,
+        "label": "SE 198"
+    }, {
+        "id": 56,
+        "label": "SE 199"
+    }, {
+        "id": 57,
+        "label": "SE 195"
+    }, {
+        "id": 58,
+        "label": "SE 197"
+    }, {
+        "id": 59,
+        "label": "BENG 126A"
+    }, {
+        "id": 60,
+        "label": "BENG 187B"
+    }, {
+        "id": 61,
+        "label": "BENG 126B"
+    }, {
+        "id": 62,
+        "label": "BENG 187C"
+    }, {
+        "id": 63,
+        "label": "ANTH 23"
+    }, {
+        "id": 64,
+        "label": "ANTH 21"
+    }, {
+        "id": 65,
+        "label": "SOCI 154"
+    }, {
+        "id": 66,
+        "label": "SOCC 154"
+    }, {
+        "id": 67,
+        "label": "SOCI 155"
+    }, {
+        "id": 68,
+        "label": "SOCC 155"
+    }, {
+        "id": 69,
+        "label": "SOCI 156"
+    }, {
+        "id": 70,
+        "label": "SOCC 156"
+    }, {
+        "id": 71,
+        "label": "SOCI 157"
+    }, {
+        "id": 72,
+        "label": "SOCC 157"
+    }, {
+        "id": 73,
+        "label": "SOCI 150"
+    }, {
+        "id": 74,
+        "label": "SOCC 150"
+    }, {
+        "id": 75,
+        "label": "GPPA 405"
+    }, {
+        "id": 76,
+        "label": "SOCI 152"
+    }, {
+        "id": 77,
+        "label": "SOCC 152"
+    }, {
+        "id": 78,
+        "label": "Linguistics/Heritage Languages (LIHL) 132F"
+    }, {
+        "id": 79,
+        "label": "SOCI 158"
+    }, {
+        "id": 80,
+        "label": "SOCD 158"
+    }, {
+        "id": 81,
+        "label": "SOCI 159"
+    }, {
+        "id": 82,
+        "label": "Linguistics/Heritage Languages (LIHL) 132P"
+    }, {
+        "id": 83,
+        "label": "Linguistics/Heritage Languages (LIHL) 132W"
+    }, {
+        "id": 84,
+        "label": "HDP 160"
+    }, {
+        "id": 85,
+        "label": "MATH 260B"
+    }, {
+        "id": 86,
+        "label": "Math 260A"
+    }, {
+        "id": 87,
+        "label": "MATH 260A"
+    }, {
+        "id": 88,
+        "label": "POLI 130B"
+    }, {
+        "id": 89,
+        "label": "SE 99H"
+    }, {
+        "id": 90,
+        "label": "ANTH 147"
+    }, {
+        "id": 91,
+        "label": "HITO 103S"
+    }, {
+        "id": 92,
+        "label": "HIUS 156D"
+    }, {
+        "id": 93,
+        "label": "MAE 110"
+    }, {
+        "id": 94,
+        "label": "MAE 110A"
+    }, {
+        "id": 95,
+        "label": "MAE 11"
+    }, {
+        "id": 96,
+        "label": "ANSC 191GS"
+    }, {
+        "id": 97,
+        "label": "ANSC 148"
+    }, {
+        "id": 98,
+        "label": "ANTH 103"
+    }, {
+        "id": 99,
+        "label": "ANSC 155"
+    }, {
+        "id": 100,
+        "label": "ANTH 1"
+    }, {
+        "id": 101,
+        "label": "ANSC 164"
+    }, {
+        "id": 102,
+        "label": "ANSC 121"
+    }, {
+        "id": 103,
+        "label": "MAE 118"
+    }, {
+        "id": 104,
+        "label": "CENG 101A"
+    }, {
+        "id": 105,
+        "label": "MAE 101A"
+    }, {
+        "id": 106,
+        "label": "MAE 119"
+    }, {
+        "id": 107,
+        "label": "PHIL 207"
+    }, {
+        "id": 108,
+        "label": "PHIL 200"
+    }, {
+        "id": 109,
+        "label": "PHIL 202"
+    }, {
+        "id": 110,
+        "label": "PHIL 208"
+    }, {
+        "id": 111,
+        "label": "CLRE 257"
+    }, {
+        "id": 112,
+        "label": "CLRE 251"
+    }, {
+        "id": 113,
+        "label": "CLRE 256"
+    }, {
+        "id": 114,
+        "label": "CLRE 250"
+    }, {
+        "id": 115,
+        "label": "CLRE 255"
+    }, {
+        "id": 116,
+        "label": "CLRE 254"
+    }, {
+        "id": 117,
+        "label": "CLRE 253"
+    }, {
+        "id": 118,
+        "label": "CLRE 252"
+    }, {
+        "id": 119,
+        "label": "MUS 234"
+    }, {
+        "id": 120,
+        "label": "MUS 230"
+    }, {
+        "id": 121,
+        "label": "CLRE 259"
+    }, {
+        "id": 122,
+        "label": "CLRE 258"
+    }, {
+        "id": 123,
+        "label": "Linguistics/Heritage Languages (LIHL) 114F"
+    }, {
+        "id": 124,
+        "label": "VIS 281"
+    }, {
+        "id": 125,
+        "label": "VIS 280"
+    }, {
+        "id": 126,
+        "label": "Linguistics/Heritage Languages (LIHL) 114W"
+    }, {
+        "id": 127,
+        "label": "ECE 240A"
+    }, {
+        "id": 128,
+        "label": "ECE 240C"
+    }, {
+        "id": 129,
+        "label": "ECE 240B"
+    }, {
+        "id": 130,
+        "label": "HIUS 180/ETHN"
+    }, {
+        "id": 131,
+        "label": "BIMM 116B"
+    }, {
+        "id": 132,
+        "label": "BENG 267"
+    }, {
+        "id": 133,
+        "label": "NANO 102"
+    }, {
+        "id": 134,
+        "label": "NANO 101"
+    }, {
+        "id": 135,
+        "label": "NANO 106"
+    }, {
+        "id": 136,
+        "label": "Math 20D"
+    }, {
+        "id": 137,
+        "label": "PHYS 2D"
+    }, {
+        "id": 138,
+        "label": "Chem 6C"
+    }, {
+        "id": 139,
+        "label": "TDDM 100"
+    }, {
+        "id": 140,
+        "label": "TDDM 1"
+    }, {
+        "id": 141,
+        "label": "TDDM 101"
+    }, {
+        "id": 142,
+        "label": "CENG 15"
+    }, {
+        "id": 143,
+        "label": "Math 20C"
+    }, {
+        "id": 144,
+        "label": "Chem 6B"
+    }, {
+        "id": 145,
+        "label": "MAE 8"
+    }, {
+        "id": 146,
+        "label": "Phys 2B"
+    }, {
+        "id": 147,
+        "label": "NANO 15"
+    }, {
+        "id": 148,
+        "label": "LTCS 120"
+    }, {
+        "id": 149,
+        "label": "LTCS 125"
+    }, {
+        "id": 150,
+        "label": "ECON 222A-B-C"
+    }, {
+        "id": 151,
+        "label": "ANSC 125GS"
+    }, {
+        "id": 152,
+        "label": "HIEU 154XL"
+    }, {
+        "id": 153,
+        "label": "CSE 203A"
+    }, {
+        "id": 154,
+        "label": "CSE 202"
+    }, {
+        "id": 155,
+        "label": "LTWR 8B"
+    }, {
+        "id": 156,
+        "label": "MCWP 40"
+    }, {
+        "id": 157,
+        "label": "MCWP 50"
+    }, {
+        "id": 158,
+        "label": "WARR 11B"
+    }, {
+        "id": 159,
+        "label": "WCWP 10A"
+    }, {
+        "id": 160,
+        "label": "WARR 11A"
+    }, {
+        "id": 161,
+        "label": "WCWP 10B"
+    }, {
+        "id": 162,
+        "label": "DOC 3"
+    }, {
+        "id": 163,
+        "label": "DOC 2"
+    }, {
+        "id": 164,
+        "label": "HUM 1"
+    }, {
+        "id": 165,
+        "label": "HUM 2"
+    }, {
+        "id": 166,
+        "label": "MMW 12"
+    }, {
+        "id": 167,
+        "label": "MMW 13"
+    }, {
+        "id": 168,
+        "label": "LTWR 8C"
+    }, {
+        "id": 169,
+        "label": "LTWR 8A"
+    }, {
+        "id": 170,
+        "label": "BIOM 231"
+    }, {
+        "id": 171,
+        "label": "BIOM 232"
+    }, {
+        "id": 172,
+        "label": "BIOM 233"
+    }, {
+        "id": 173,
+        "label": "BIOM 234"
+    }, {
+        "id": 174,
+        "label": "BIOM 235"
+    }],
+    "edges": [{
+        "to": 1,
+        "from": 0
+    }, {
+        "to": 2,
+        "from": 0
+    }, {
+        "to": 3,
+        "from": 0
+    }, {
+        "to": 4,
+        "from": 0
+    }, {
+        "to": 5,
+        "from": 0
+    }, {
+        "to": 6,
+        "from": 0
+    }, {
+        "to": 7,
+        "from": 0
+    }, {
+        "to": 8,
+        "from": 0
+    }, {
+        "to": 9,
+        "from": 0
+    }, {
+        "to": 0,
+        "from": 10
+    }, {
+        "to": 11,
+        "from": 10
+    }, {
+        "to": 12,
+        "from": 10
+    }, {
+        "to": 13,
+        "from": 10
+    }, {
+        "to": 14,
+        "from": 10
+    }, {
+        "to": 15,
+        "from": 10
+    }, {
+        "to": 2,
+        "from": 10
+    }, {
+        "to": 16,
+        "from": 11
+    }, {
+        "to": 17,
+        "from": 11
+    }, {
+        "to": 27,
+        "from": 26
+    }, {
+        "to": 28,
+        "from": 26
+    }, {
+        "to": 29,
+        "from": 26
+    }, {
+        "to": 30,
+        "from": 26
+    }, {
+        "to": 31,
+        "from": 26
+    }, {
+        "to": 32,
+        "from": 26
+    }, {
+        "to": 33,
+        "from": 26
+    }, {
+        "to": 34,
+        "from": 26
+    }, {
+        "to": 35,
+        "from": 26
+    }, {
+        "to": 36,
+        "from": 26
+    }, {
+        "to": 37,
+        "from": 26
+    }, {
+        "to": 38,
+        "from": 26
+    }, {
+        "to": 39,
+        "from": 26
+    }, {
+        "to": 28,
+        "from": 40
+    }, {
+        "to": 30,
+        "from": 40
+    }, {
+        "to": 31,
+        "from": 40
+    }, {
+        "to": 32,
+        "from": 40
+    }, {
+        "to": 35,
+        "from": 40
+    }, {
+        "to": 36,
+        "from": 40
+    }, {
+        "to": 37,
+        "from": 40
+    }, {
+        "to": 38,
+        "from": 40
+    }, {
+        "to": 39,
+        "from": 40
+    }, {
+        "to": 28,
+        "from": 41
+    }, {
+        "to": 30,
+        "from": 41
+    }, {
+        "to": 31,
+        "from": 41
+    }, {
+        "to": 32,
+        "from": 41
+    }, {
+        "to": 35,
+        "from": 41
+    }, {
+        "to": 36,
+        "from": 41
+    }, {
+        "to": 37,
+        "from": 41
+    }, {
+        "to": 38,
+        "from": 41
+    }, {
+        "to": 39,
+        "from": 41
+    }, {
+        "to": 28,
+        "from": 42
+    }, {
+        "to": 30,
+        "from": 42
+    }, {
+        "to": 31,
+        "from": 42
+    }, {
+        "to": 32,
+        "from": 42
+    }, {
+        "to": 35,
+        "from": 42
+    }, {
+        "to": 36,
+        "from": 42
+    }, {
+        "to": 37,
+        "from": 42
+    }, {
+        "to": 38,
+        "from": 42
+    }, {
+        "to": 39,
+        "from": 42
+    }, {
+        "to": 28,
+        "from": 43
+    }, {
+        "to": 30,
+        "from": 43
+    }, {
+        "to": 31,
+        "from": 43
+    }, {
+        "to": 32,
+        "from": 43
+    }, {
+        "to": 35,
+        "from": 43
+    }, {
+        "to": 36,
+        "from": 43
+    }, {
+        "to": 37,
+        "from": 43
+    }, {
+        "to": 38,
+        "from": 43
+    }, {
+        "to": 39,
+        "from": 43
+    }, {
+        "to": 45,
+        "from": 44
+    }, {
+        "to": 46,
+        "from": 44
+    }, {
+        "to": 46,
+        "from": 45
+    }, {
+        "to": 48,
+        "from": 47
+    }, {
+        "to": 49,
+        "from": 47
+    }, {
+        "to": 50,
+        "from": 47
+    }, {
+        "to": 48,
+        "from": 51
+    }, {
+        "to": 49,
+        "from": 51
+    }, {
+        "to": 50,
+        "from": 51
+    }, {
+        "to": 48,
+        "from": 53
+    }, {
+        "to": 49,
+        "from": 53
+    }, {
+        "to": 50,
+        "from": 53
+    }, {
+        "to": 60,
+        "from": 59
+    }, {
+        "to": 59,
+        "from": 61
+    }, {
+        "to": 62,
+        "from": 61
+    }, {
+        "to": 65,
+        "from": 65
+    }, {
+        "to": 66,
+        "from": 65
+    }, {
+        "to": 67,
+        "from": 67
+    }, {
+        "to": 68,
+        "from": 67
+    }, {
+        "to": 69,
+        "from": 69
+    }, {
+        "to": 70,
+        "from": 69
+    }, {
+        "to": 71,
+        "from": 71
+    }, {
+        "to": 72,
+        "from": 71
+    }, {
+        "to": 74,
+        "from": 73
+    }, {
+        "to": 73,
+        "from": 73
+    }, {
+        "to": 77,
+        "from": 76
+    }, {
+        "to": 76,
+        "from": 76
+    }, {
+        "to": 79,
+        "from": 79
+    }, {
+        "to": 80,
+        "from": 79
+    }, {
+        "to": 86,
+        "from": 85
+    }, {
+        "to": 94,
+        "from": 93
+    }, {
+        "to": 95,
+        "from": 93
+    }, {
+        "to": 97,
+        "from": 96
+    }, {
+        "to": 98,
+        "from": 96
+    }, {
+        "to": 99,
+        "from": 96
+    }, {
+        "to": 100,
+        "from": 96
+    }, {
+        "to": 101,
+        "from": 96
+    }, {
+        "to": 63,
+        "from": 96
+    }, {
+        "to": 64,
+        "from": 96
+    }, {
+        "to": 102,
+        "from": 96
+    }, {
+        "to": 104,
+        "from": 103
+    }, {
+        "to": 105,
+        "from": 103
+    }, {
+        "to": 104,
+        "from": 106
+    }, {
+        "to": 105,
+        "from": 106
+    }, {
+        "to": 112,
+        "from": 111
+    }, {
+        "to": 114,
+        "from": 113
+    }, {
+        "to": 117,
+        "from": 116
+    }, {
+        "to": 129,
+        "from": 128
+    }, {
+        "to": 127,
+        "from": 129
+    }, {
+        "to": 134,
+        "from": 133
+    }, {
+        "to": 135,
+        "from": 133
+    }, {
+        "to": 136,
+        "from": 133
+    }, {
+        "to": 137,
+        "from": 133
+    }, {
+        "to": 138,
+        "from": 133
+    }, {
+        "to": 140,
+        "from": 139
+    }, {
+        "to": 140,
+        "from": 141
+    }, {
+        "to": 142,
+        "from": 134
+    }, {
+        "to": 143,
+        "from": 134
+    }, {
+        "to": 144,
+        "from": 134
+    }, {
+        "to": 145,
+        "from": 134
+    }, {
+        "to": 146,
+        "from": 134
+    }, {
+        "to": 147,
+        "from": 134
+    }, {
+        "to": 154,
+        "from": 153
+    }, {
+        "to": 156,
+        "from": 155
+    }, {
+        "to": 157,
+        "from": 155
+    }, {
+        "to": 158,
+        "from": 155
+    }, {
+        "to": 159,
+        "from": 155
+    }, {
+        "to": 160,
+        "from": 155
+    }, {
+        "to": 161,
+        "from": 155
+    }, {
+        "to": 162,
+        "from": 155
+    }, {
+        "to": 163,
+        "from": 155
+    }, {
+        "to": 164,
+        "from": 155
+    }, {
+        "to": 165,
+        "from": 155
+    }, {
+        "to": 166,
+        "from": 155
+    }, {
+        "to": 167,
+        "from": 155
+    }, {
+        "to": 49,
+        "from": 155
+    }, {
+        "to": 50,
+        "from": 155
+    }, {
+        "to": 156,
+        "from": 168
+    }, {
+        "to": 157,
+        "from": 168
+    }, {
+        "to": 158,
+        "from": 168
+    }, {
+        "to": 159,
+        "from": 168
+    }, {
+        "to": 160,
+        "from": 168
+    }, {
+        "to": 161,
+        "from": 168
+    }, {
+        "to": 162,
+        "from": 168
+    }, {
+        "to": 163,
+        "from": 168
+    }, {
+        "to": 164,
+        "from": 168
+    }, {
+        "to": 165,
+        "from": 168
+    }, {
+        "to": 166,
+        "from": 168
+    }, {
+        "to": 167,
+        "from": 168
+    }, {
+        "to": 49,
+        "from": 168
+    }, {
+        "to": 50,
+        "from": 168
+    }, {
+        "to": 156,
+        "from": 169
+    }, {
+        "to": 157,
+        "from": 169
+    }, {
+        "to": 158,
+        "from": 169
+    }, {
+        "to": 159,
+        "from": 169
+    }, {
+        "to": 160,
+        "from": 169
+    }, {
+        "to": 161,
+        "from": 169
+    }, {
+        "to": 162,
+        "from": 169
+    }, {
+        "to": 163,
+        "from": 169
+    }, {
+        "to": 164,
+        "from": 169
+    }, {
+        "to": 165,
+        "from": 169
+    }, {
+        "to": 166,
+        "from": 169
+    }, {
+        "to": 167,
+        "from": 169
+    }, {
+        "to": 49,
+        "from": 169
+    }, {
+        "to": 50,
+        "from": 169
+    }]
+}
