@@ -1,0 +1,130 @@
+{
+    "nodes": [{
+        "id": 0,
+        "label": "CSE 105"
+    }, {
+        "id": 1,
+        "label": "CSE 12"
+    }, {
+        "id": 2,
+        "label": "CSE 21"
+    }, {
+        "id": 3,
+        "label": "CSE 20"
+    }, {
+        "id": 4,
+        "label": "Math 184"
+    }, {
+        "id": 5,
+        "label": "CSE 15L"
+    }, {
+        "id": 6,
+        "label": "Math 100A"
+    }, {
+        "id": 7,
+        "label": "Math 109"
+    }, {
+        "id": 8,
+        "label": "Math 103A"
+    }, {
+        "id": 9,
+        "label": "Math 15A"
+    }, {
+        "id": 10,
+        "label": "CSE 107"
+    }, {
+        "id": 11,
+        "label": "CSE 101"
+    }, {
+        "id": 12,
+        "label": "Math 184A"
+    }, {
+        "id": 13,
+        "label": "Math 15B"
+    }, {
+        "id": 14,
+        "label": "Math 166"
+    }, {
+        "id": 15,
+        "label": "Math 154"
+    }, {
+        "id": 16,
+        "label": "Math 176"
+    }, {
+        "id": 17,
+        "label": "CSE 100"
+    }, {
+        "id": 18,
+        "label": "CSE 103"
+    }, {
+        "id": 19,
+        "label": "GLBH 20"
+    }, {
+        "id": 20,
+        "label": "POLI 244"
+    }, {
+        "id": 21,
+        "label": "PHIL 33"
+    }, {
+        "id": 22,
+        "label": "PHIL 32"
+    }, {
+        "id": 23,
+        "label": "PHIL 31"
+    }],
+    "edges": [{
+        "to": 1,
+        "from": 0
+    }, {
+        "to": 2,
+        "from": 0
+    }, {
+        "to": 3,
+        "from": 0
+    }, {
+        "to": 4,
+        "from": 0
+    }, {
+        "to": 5,
+        "from": 0
+    }, {
+        "to": 6,
+        "from": 0
+    }, {
+        "to": 7,
+        "from": 0
+    }, {
+        "to": 8,
+        "from": 0
+    }, {
+        "to": 9,
+        "from": 0
+    }, {
+        "to": 0,
+        "from": 10
+    }, {
+        "to": 11,
+        "from": 10
+    }, {
+        "to": 12,
+        "from": 10
+    }, {
+        "to": 13,
+        "from": 10
+    }, {
+        "to": 14,
+        "from": 10
+    }, {
+        "to": 15,
+        "from": 10
+    }, {
+        "to": 2,
+        "from": 10
+    }, {
+        "to": 16,
+        "from": 11
+    }, {
+        "to": 17,
+        "from": 11
+    }]
+}
