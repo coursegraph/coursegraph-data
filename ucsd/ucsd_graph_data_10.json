@@ -37,28 +37,32 @@
       "to": 0
     }, 
     {
-      "from": 10, 
-      "to": 0
+      "from": 0, 
+      "to": 10
     }, 
     {
-      "from": 0, 
-      "to": 11
+      "from": 11, 
+      "to": 10
     }, 
     {
       "from": 12, 
-      "to": 11
+      "to": 10
     }, 
     {
       "from": 13, 
-      "to": 11
+      "to": 10
     }, 
     {
       "from": 14, 
-      "to": 11
+      "to": 10
     }, 
     {
       "from": 15, 
-      "to": 11
+      "to": 10
+    }, 
+    {
+      "from": 2, 
+      "to": 10
     }, 
     {
       "from": 16, 
@@ -67,36 +71,12 @@
     {
       "from": 17, 
       "to": 11
-    }, 
-    {
-      "from": 2, 
-      "to": 11
-    }, 
-    {
-      "from": 18, 
-      "to": 13
-    }, 
-    {
-      "from": 19, 
-      "to": 13
-    }, 
-    {
-      "from": 20, 
-      "to": 13
-    }, 
-    {
-      "from": 18, 
-      "to": 26
-    }, 
-    {
-      "from": 27, 
-      "to": 26
     }
   ], 
   "nodes": [
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "An introduction to the mathematical theory of computability. Formal languages. Finite automata and regular expression. Push-down automata and context-free languages. Computable or recursive functions: Turing machines, the halting problem. Undecidability. Credit not offered for both Math 166 and CSE 105. Equivalent to Math 166. ", 
       "edges_from": [
         1, 
         2, 
@@ -106,11 +86,10 @@
         6, 
         7, 
         8, 
-        9, 
-        10
+        9
       ], 
       "edges_to": [
-        11
+        10
       ], 
       "id": 0, 
       "label": "CSE 105", 
@@ -118,7 +97,7 @@
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
@@ -129,11 +108,11 @@
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0, 
-        11
+        10
       ], 
       "id": 2, 
       "label": "CSE 21", 
@@ -141,7 +120,7 @@
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
@@ -152,7 +131,7 @@
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
@@ -162,260 +141,210 @@
       "title": ""
     }, 
     {
-      "dept": "SENIOR_STANDING", 
-      "desc": "", 
+      "dept": "CSE", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
       ], 
       "id": 5, 
-      "label": "SENIOR_STANDING", 
-      "title": ""
-    }, 
-    {
-      "dept": "CSE", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        0
-      ], 
-      "id": 6, 
       "label": "CSE 15L", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
       ], 
-      "id": 7, 
+      "id": 6, 
       "label": "MATH 100A", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
       ], 
-      "id": 8, 
+      "id": 7, 
       "label": "MATH 109", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
       ], 
-      "id": 9, 
+      "id": 8, 
       "label": "MATH 103A", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
       ], 
-      "id": 10, 
+      "id": 9, 
       "label": "MATH 15A", 
       "title": ""
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "Topics include private and public-key cryptography, block ciphers, data encryption, authentication, key distribution and certification, pseudorandom number generators, design and analysis of protocols, zero-knowledge proofs, and advanced protocols. Emphasizes rigorous mathematical approach including formal definitions of security goals and proofs of protocol security. ", 
       "edges_from": [
         0, 
         2, 
+        11, 
         12, 
         13, 
         14, 
-        15, 
-        16, 
-        17
+        15
       ], 
       "edges_to": [], 
-      "id": 11, 
+      "id": 10, 
       "label": "CSE 107", 
       "title": "Introduction to Modern Cryptography (4)"
     }, 
     {
-      "dept": "OTHER_STUDENTS_ALLOWABLE_AS_SPACE_PERMITS", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        11
-      ], 
-      "id": 12, 
-      "label": "OTHER_STUDENTS_ALLOWABLE_AS_SPACE_PERMITS", 
-      "title": ""
-    }, 
-    {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [
-        18, 
-        19, 
-        20
+        16, 
+        17
       ], 
       "edges_to": [
-        11
+        10
       ], 
-      "id": 13, 
+      "id": 11, 
       "label": "CSE 101", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        11
+        10
       ], 
-      "id": 14, 
+      "id": 12, 
       "label": "MATH 184A", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        11
+        10
       ], 
-      "id": 15, 
+      "id": 13, 
       "label": "MATH 15B", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        11
+        10
       ], 
-      "id": 16, 
+      "id": 14, 
       "label": "MATH 166", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        11
+        10
       ], 
-      "id": 17, 
+      "id": 15, 
       "label": "MATH 154", 
       "title": ""
     }, 
     {
-      "dept": "GRADUATE_STANDING", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        26, 
-        13
-      ], 
-      "id": 18, 
-      "label": "GRADUATE_STANDING", 
-      "title": ""
-    }, 
-    {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        13
+        11
       ], 
-      "id": 19, 
+      "id": 16, 
       "label": "MATH 176", 
       "title": ""
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        13
+        11
       ], 
-      "id": 20, 
+      "id": 17, 
       "label": "CSE 100", 
       "title": ""
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "Introduction to Probability and Statistics (4)", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 21, 
+      "id": 18, 
       "label": "CSE 103", 
       "title": "A Practical"
     }, 
     {
       "dept": "GLBH", 
-      "desc": "", 
+      "description": "Provides a foundational interdisciplinary understanding of complex global health issues and introduces major concepts and principles in global health. The course surveys the range of problems contributing to the global burden of disease and disability including infectious disease, mental illness, refugee and immigrant health, natural disasters, climate change, and food insecurity.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 22, 
+      "id": 19, 
       "label": "GLBH 20", 
       "title": "Introduction to Global Health (4)"
     }, 
     {
       "dept": "PHIL", 
-      "desc": "", 
+      "description": "Introduction to nineteenth-century philosophy, focusing on skepticism", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 23, 
+      "id": 20, 
       "label": "PHIL 33", 
       "title": "Philosophy between Reason and Despair (4)"
     }, 
     {
       "dept": "PHIL", 
-      "desc": "", 
+      "description": "Beginning with the contrast between medieval and early modern thought,", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 24, 
+      "id": 21, 
       "label": "PHIL 32", 
       "title": "Philosophy and the Rise of Modern Science  (4)"
     }, 
     {
       "dept": "PHIL", 
-      "desc": "", 
+      "description": "to Ancient Philosophy (4)", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 25, 
+      "id": 22, 
       "label": "PHIL 31", 
       "title": "Introduction"
     }, 
     {
       "dept": "HIEU", 
-      "desc": "", 
-      "edges_from": [
-        18, 
-        27
-      ], 
+      "description": "This course will be a comparative and thematic examination of the fascist movement and regimes in Europe from the 1920s to the 1940s. In particular, it will focus on the emergence of the two major fascist movements in Italy and Germany. Graduate students will be required to submit a more substantial piece of work with in-depth analysis and with an increased number of sources cited. A typical undergraduate paper would be ten pages, whereas a typical graduate paper would require engagement with primary sources, more extensive reading of secondary material, and be about twenty pages. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 26, 
+      "id": 23, 
       "label": "HIEU 172/272", 
       "title": "Comparative European Fascism (4)"
-    }, 
-    {
-      "dept": "DEPARTMENT_APPROVAL", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        26
-      ], 
-      "id": 27, 
-      "label": "DEPARTMENT_APPROVAL", 
-      "title": ""
     }
   ]
 }

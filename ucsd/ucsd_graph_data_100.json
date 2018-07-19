@@ -37,28 +37,32 @@
       "to": 0
     }, 
     {
-      "from": 10, 
-      "to": 0
+      "from": 0, 
+      "to": 10
     }, 
     {
-      "from": 0, 
-      "to": 11
+      "from": 11, 
+      "to": 10
     }, 
     {
       "from": 12, 
-      "to": 11
+      "to": 10
     }, 
     {
       "from": 13, 
-      "to": 11
+      "to": 10
     }, 
     {
       "from": 14, 
-      "to": 11
+      "to": 10
     }, 
     {
       "from": 15, 
-      "to": 11
+      "to": 10
+    }, 
+    {
+      "from": 2, 
+      "to": 10
     }, 
     {
       "from": 16, 
@@ -69,39 +73,71 @@
       "to": 11
     }, 
     {
-      "from": 2, 
-      "to": 11
-    }, 
-    {
-      "from": 18, 
-      "to": 13
-    }, 
-    {
-      "from": 19, 
-      "to": 13
-    }, 
-    {
-      "from": 20, 
-      "to": 13
-    }, 
-    {
-      "from": 18, 
-      "to": 26
+      "from": 26, 
+      "to": 25
     }, 
     {
       "from": 27, 
-      "to": 26
+      "to": 25
+    }, 
+    {
+      "from": 28, 
+      "to": 25
+    }, 
+    {
+      "from": 29, 
+      "to": 25
     }, 
     {
       "from": 30, 
-      "to": 29
+      "to": 25
     }, 
     {
       "from": 31, 
-      "to": 29
+      "to": 25
     }, 
     {
       "from": 32, 
+      "to": 25
+    }, 
+    {
+      "from": 33, 
+      "to": 25
+    }, 
+    {
+      "from": 34, 
+      "to": 25
+    }, 
+    {
+      "from": 35, 
+      "to": 25
+    }, 
+    {
+      "from": 36, 
+      "to": 25
+    }, 
+    {
+      "from": 37, 
+      "to": 25
+    }, 
+    {
+      "from": 38, 
+      "to": 25
+    }, 
+    {
+      "from": 26, 
+      "to": 29
+    }, 
+    {
+      "from": 27, 
+      "to": 29
+    }, 
+    {
+      "from": 28, 
+      "to": 29
+    }, 
+    {
+      "from": 30, 
       "to": 29
     }, 
     {
@@ -117,10 +153,6 @@
       "to": 29
     }, 
     {
-      "from": 36, 
-      "to": 29
-    }, 
-    {
       "from": 37, 
       "to": 29
     }, 
@@ -129,311 +161,191 @@
       "to": 29
     }, 
     {
-      "from": 39, 
-      "to": 29
+      "from": 26, 
+      "to": 36
+    }, 
+    {
+      "from": 27, 
+      "to": 36
+    }, 
+    {
+      "from": 28, 
+      "to": 36
+    }, 
+    {
+      "from": 30, 
+      "to": 36
+    }, 
+    {
+      "from": 33, 
+      "to": 36
+    }, 
+    {
+      "from": 34, 
+      "to": 36
+    }, 
+    {
+      "from": 35, 
+      "to": 36
+    }, 
+    {
+      "from": 37, 
+      "to": 36
+    }, 
+    {
+      "from": 38, 
+      "to": 36
+    }, 
+    {
+      "from": 26, 
+      "to": 31
+    }, 
+    {
+      "from": 27, 
+      "to": 31
+    }, 
+    {
+      "from": 28, 
+      "to": 31
+    }, 
+    {
+      "from": 30, 
+      "to": 31
+    }, 
+    {
+      "from": 33, 
+      "to": 31
+    }, 
+    {
+      "from": 34, 
+      "to": 31
+    }, 
+    {
+      "from": 35, 
+      "to": 31
+    }, 
+    {
+      "from": 37, 
+      "to": 31
+    }, 
+    {
+      "from": 38, 
+      "to": 31
+    }, 
+    {
+      "from": 26, 
+      "to": 32
+    }, 
+    {
+      "from": 27, 
+      "to": 32
+    }, 
+    {
+      "from": 28, 
+      "to": 32
+    }, 
+    {
+      "from": 30, 
+      "to": 32
+    }, 
+    {
+      "from": 33, 
+      "to": 32
+    }, 
+    {
+      "from": 34, 
+      "to": 32
+    }, 
+    {
+      "from": 35, 
+      "to": 32
+    }, 
+    {
+      "from": 37, 
+      "to": 32
+    }, 
+    {
+      "from": 38, 
+      "to": 32
     }, 
     {
       "from": 40, 
-      "to": 29
+      "to": 39
     }, 
     {
       "from": 41, 
-      "to": 29
-    }, 
-    {
-      "from": 42, 
-      "to": 29
-    }, 
-    {
-      "from": 30, 
-      "to": 33
-    }, 
-    {
-      "from": 31, 
-      "to": 33
-    }, 
-    {
-      "from": 32, 
-      "to": 33
-    }, 
-    {
-      "from": 34, 
-      "to": 33
-    }, 
-    {
-      "from": 37, 
-      "to": 33
-    }, 
-    {
-      "from": 38, 
-      "to": 33
-    }, 
-    {
-      "from": 39, 
-      "to": 33
-    }, 
-    {
-      "from": 41, 
-      "to": 33
-    }, 
-    {
-      "from": 42, 
-      "to": 33
-    }, 
-    {
-      "from": 30, 
-      "to": 40
-    }, 
-    {
-      "from": 31, 
-      "to": 40
-    }, 
-    {
-      "from": 32, 
-      "to": 40
-    }, 
-    {
-      "from": 34, 
-      "to": 40
-    }, 
-    {
-      "from": 37, 
-      "to": 40
-    }, 
-    {
-      "from": 38, 
-      "to": 40
-    }, 
-    {
-      "from": 39, 
-      "to": 40
+      "to": 39
     }, 
     {
       "from": 41, 
       "to": 40
     }, 
     {
-      "from": 42, 
-      "to": 40
-    }, 
-    {
-      "from": 30, 
-      "to": 35
-    }, 
-    {
-      "from": 31, 
-      "to": 35
-    }, 
-    {
-      "from": 32, 
-      "to": 35
-    }, 
-    {
-      "from": 34, 
-      "to": 35
-    }, 
-    {
-      "from": 37, 
-      "to": 35
-    }, 
-    {
-      "from": 38, 
-      "to": 35
-    }, 
-    {
-      "from": 39, 
-      "to": 35
-    }, 
-    {
-      "from": 41, 
-      "to": 35
-    }, 
-    {
-      "from": 42, 
-      "to": 35
-    }, 
-    {
-      "from": 30, 
-      "to": 36
-    }, 
-    {
-      "from": 31, 
-      "to": 36
-    }, 
-    {
-      "from": 32, 
-      "to": 36
-    }, 
-    {
-      "from": 34, 
-      "to": 36
-    }, 
-    {
-      "from": 37, 
-      "to": 36
-    }, 
-    {
-      "from": 38, 
-      "to": 36
-    }, 
-    {
-      "from": 39, 
-      "to": 36
-    }, 
-    {
-      "from": 41, 
-      "to": 36
-    }, 
-    {
-      "from": 42, 
-      "to": 36
+      "from": 43, 
+      "to": 42
     }, 
     {
       "from": 44, 
-      "to": 43
+      "to": 42
     }, 
     {
       "from": 45, 
-      "to": 43
+      "to": 42
     }, 
     {
-      "from": 46, 
-      "to": 43
+      "from": 43, 
+      "to": 46
+    }, 
+    {
+      "from": 44, 
+      "to": 46
     }, 
     {
       "from": 45, 
-      "to": 44
+      "to": 46
     }, 
     {
-      "from": 46, 
-      "to": 44
+      "from": 43, 
+      "to": 48
     }, 
     {
-      "from": 48, 
-      "to": 47
+      "from": 44, 
+      "to": 48
     }, 
     {
-      "from": 49, 
-      "to": 47
+      "from": 45, 
+      "to": 48
     }, 
     {
-      "from": 50, 
-      "to": 47
-    }, 
-    {
-      "from": 51, 
-      "to": 47
-    }, 
-    {
-      "from": 52, 
-      "to": 47
-    }, 
-    {
-      "from": 48, 
-      "to": 53
-    }, 
-    {
-      "from": 49, 
-      "to": 53
-    }, 
-    {
-      "from": 50, 
-      "to": 53
-    }, 
-    {
-      "from": 51, 
-      "to": 53
-    }, 
-    {
-      "from": 52, 
-      "to": 53
-    }, 
-    {
-      "from": 52, 
+      "from": 55, 
       "to": 54
     }, 
     {
-      "from": 46, 
-      "to": 54
-    }, 
-    {
-      "from": 48, 
-      "to": 55
-    }, 
-    {
-      "from": 49, 
-      "to": 55
-    }, 
-    {
-      "from": 50, 
-      "to": 55
-    }, 
-    {
-      "from": 51, 
-      "to": 55
-    }, 
-    {
-      "from": 52, 
-      "to": 55
-    }, 
-    {
-      "from": 52, 
+      "from": 54, 
       "to": 56
     }, 
     {
-      "from": 27, 
+      "from": 57, 
       "to": 56
     }, 
     {
-      "from": 46, 
-      "to": 56
+      "from": 60, 
+      "to": 60
     }, 
     {
-      "from": 27, 
-      "to": 57
-    }, 
-    {
-      "from": 46, 
-      "to": 57
-    }, 
-    {
-      "from": 27, 
-      "to": 58
-    }, 
-    {
-      "from": 46, 
-      "to": 58
-    }, 
-    {
-      "from": 52, 
-      "to": 59
-    }, 
-    {
-      "from": 27, 
-      "to": 59
-    }, 
-    {
-      "from": 27, 
+      "from": 61, 
       "to": 60
     }, 
     {
       "from": 62, 
-      "to": 61
-    }, 
-    {
-      "from": 46, 
-      "to": 61
+      "to": 62
     }, 
     {
       "from": 63, 
-      "to": 61
+      "to": 62
     }, 
     {
-      "from": 46, 
-      "to": 64
-    }, 
-    {
-      "from": 61, 
+      "from": 64, 
       "to": 64
     }, 
     {
@@ -441,48 +353,28 @@
       "to": 64
     }, 
     {
-      "from": 62, 
-      "to": 64
+      "from": 66, 
+      "to": 66
     }, 
     {
-      "from": 68, 
-      "to": 68
-    }, 
-    {
-      "from": 52, 
-      "to": 68
+      "from": 67, 
+      "to": 66
     }, 
     {
       "from": 69, 
       "to": 68
     }, 
     {
-      "from": 70, 
-      "to": 70
-    }, 
-    {
-      "from": 52, 
-      "to": 70
-    }, 
-    {
-      "from": 71, 
-      "to": 70
+      "from": 68, 
+      "to": 68
     }, 
     {
       "from": 72, 
-      "to": 72
+      "to": 71
     }, 
     {
-      "from": 73, 
-      "to": 72
-    }, 
-    {
-      "from": 52, 
-      "to": 72
-    }, 
-    {
-      "from": 52, 
-      "to": 74
+      "from": 71, 
+      "to": 71
     }, 
     {
       "from": 74, 
@@ -493,518 +385,294 @@
       "to": 74
     }, 
     {
-      "from": 77, 
-      "to": 76
+      "from": 81, 
+      "to": 80
     }, 
     {
-      "from": 76, 
-      "to": 76
-    }, 
-    {
-      "from": 52, 
-      "to": 76
-    }, 
-    {
-      "from": 80, 
-      "to": 79
-    }, 
-    {
-      "from": 52, 
-      "to": 79
-    }, 
-    {
-      "from": 79, 
-      "to": 79
-    }, 
-    {
-      "from": 52, 
-      "to": 81
-    }, 
-    {
-      "from": 46, 
-      "to": 81
-    }, 
-    {
-      "from": 52, 
-      "to": 82
-    }, 
-    {
-      "from": 82, 
-      "to": 82
-    }, 
-    {
-      "from": 83, 
-      "to": 82
-    }, 
-    {
-      "from": 52, 
-      "to": 85
-    }, 
-    {
-      "from": 46, 
-      "to": 85
-    }, 
-    {
-      "from": 52, 
-      "to": 86
-    }, 
-    {
-      "from": 46, 
-      "to": 86
-    }, 
-    {
-      "from": 46, 
-      "to": 88
+      "from": 88, 
+      "to": 87
     }, 
     {
       "from": 89, 
-      "to": 88
+      "to": 87
     }, 
     {
-      "from": 18, 
-      "to": 89
-    }, 
-    {
-      "from": 46, 
-      "to": 89
-    }, 
-    {
-      "from": 27, 
-      "to": 91
-    }, 
-    {
-      "from": 46, 
-      "to": 91
+      "from": 91, 
+      "to": 90
     }, 
     {
       "from": 92, 
-      "to": 91
+      "to": 90
     }, 
     {
-      "from": 52, 
-      "to": 93
+      "from": 93, 
+      "to": 90
     }, 
     {
-      "from": 97, 
-      "to": 96
+      "from": 94, 
+      "to": 90
+    }, 
+    {
+      "from": 95, 
+      "to": 90
+    }, 
+    {
+      "from": 58, 
+      "to": 90
+    }, 
+    {
+      "from": 59, 
+      "to": 90
+    }, 
+    {
+      "from": 96, 
+      "to": 90
     }, 
     {
       "from": 98, 
-      "to": 96
+      "to": 97
     }, 
     {
-      "from": 100, 
-      "to": 99
+      "from": 99, 
+      "to": 97
     }, 
     {
-      "from": 101, 
-      "to": 99
+      "from": 98, 
+      "to": 100
     }, 
     {
-      "from": 102, 
-      "to": 99
+      "from": 99, 
+      "to": 100
     }, 
     {
-      "from": 103, 
-      "to": 99
-    }, 
-    {
-      "from": 104, 
-      "to": 99
-    }, 
-    {
-      "from": 27, 
-      "to": 99
-    }, 
-    {
-      "from": 66, 
-      "to": 99
-    }, 
-    {
-      "from": 67, 
-      "to": 99
-    }, 
-    {
-      "from": 105, 
-      "to": 99
-    }, 
-    {
-      "from": 52, 
-      "to": 99
-    }, 
-    {
-      "from": 107, 
-      "to": 106
+      "from": 106, 
+      "to": 105
     }, 
     {
       "from": 108, 
-      "to": 106
+      "to": 107
     }, 
     {
-      "from": 46, 
-      "to": 106
-    }, 
-    {
-      "from": 107, 
-      "to": 109
-    }, 
-    {
-      "from": 108, 
-      "to": 109
-    }, 
-    {
-      "from": 46, 
-      "to": 109
-    }, 
-    {
-      "from": 18, 
+      "from": 111, 
       "to": 110
-    }, 
-    {
-      "from": 46, 
-      "to": 110
-    }, 
-    {
-      "from": 18, 
-      "to": 113
-    }, 
-    {
-      "from": 46, 
-      "to": 113
-    }, 
-    {
-      "from": 115, 
-      "to": 114
-    }, 
-    {
-      "from": 117, 
-      "to": 116
-    }, 
-    {
-      "from": 120, 
-      "to": 119
     }, 
     {
       "from": 123, 
       "to": 122
     }, 
     {
-      "from": 46, 
-      "to": 124
+      "from": 121, 
+      "to": 123
     }, 
     {
-      "from": 126, 
-      "to": 125
-    }, 
-    {
-      "from": 126, 
+      "from": 128, 
       "to": 127
     }, 
     {
-      "from": 52, 
-      "to": 128
+      "from": 128, 
+      "to": 129
     }, 
     {
-      "from": 46, 
-      "to": 128
-    }, 
-    {
-      "from": 52, 
-      "to": 131
-    }, 
-    {
-      "from": 46, 
-      "to": 131
-    }, 
-    {
-      "from": 18, 
-      "to": 132
-    }, 
-    {
-      "from": 18, 
-      "to": 133
-    }, 
-    {
-      "from": 134, 
-      "to": 133
-    }, 
-    {
-      "from": 18, 
-      "to": 134
+      "from": 131, 
+      "to": 130
     }, 
     {
       "from": 132, 
-      "to": 134
+      "to": 130
     }, 
     {
-      "from": 27, 
-      "to": 136
+      "from": 133, 
+      "to": 130
     }, 
     {
-      "from": 46, 
-      "to": 137
+      "from": 134, 
+      "to": 130
     }, 
     {
-      "from": 46, 
-      "to": 138
+      "from": 28, 
+      "to": 130
     }, 
     {
-      "from": 139, 
-      "to": 138
-    }, 
-    {
-      "from": 46, 
-      "to": 140
-    }, 
-    {
-      "from": 139, 
-      "to": 140
+      "from": 135, 
+      "to": 130
     }, 
     {
       "from": 142, 
       "to": 141
     }, 
     {
-      "from": 143, 
-      "to": 141
-    }, 
-    {
       "from": 144, 
-      "to": 141
-    }, 
-    {
-      "from": 27, 
-      "to": 141
+      "to": 143
     }, 
     {
       "from": 145, 
-      "to": 141
-    }, 
-    {
-      "from": 32, 
-      "to": 141
+      "to": 143
     }, 
     {
       "from": 146, 
-      "to": 141
+      "to": 143
     }, 
     {
-      "from": 52, 
-      "to": 150
+      "from": 147, 
+      "to": 143
     }, 
     {
-      "from": 46, 
-      "to": 150
+      "from": 148, 
+      "to": 143
+    }, 
+    {
+      "from": 149, 
+      "to": 143
+    }, 
+    {
+      "from": 150, 
+      "to": 143
+    }, 
+    {
+      "from": 151, 
+      "to": 143
+    }, 
+    {
+      "from": 152, 
+      "to": 143
     }, 
     {
       "from": 153, 
-      "to": 152
+      "to": 143
+    }, 
+    {
+      "from": 154, 
+      "to": 143
     }, 
     {
       "from": 155, 
-      "to": 154
+      "to": 143
     }, 
     {
-      "from": 156, 
-      "to": 154
+      "from": 44, 
+      "to": 143
     }, 
     {
-      "from": 157, 
-      "to": 154
+      "from": 45, 
+      "to": 143
     }, 
     {
-      "from": 158, 
-      "to": 154
+      "from": 144, 
+      "to": 156
     }, 
     {
-      "from": 159, 
-      "to": 154
+      "from": 145, 
+      "to": 156
     }, 
     {
-      "from": 160, 
-      "to": 154
+      "from": 146, 
+      "to": 156
     }, 
     {
-      "from": 161, 
-      "to": 154
+      "from": 147, 
+      "to": 156
     }, 
     {
-      "from": 162, 
-      "to": 154
+      "from": 148, 
+      "to": 156
     }, 
     {
-      "from": 163, 
-      "to": 154
+      "from": 149, 
+      "to": 156
     }, 
     {
-      "from": 164, 
-      "to": 154
+      "from": 150, 
+      "to": 156
     }, 
     {
-      "from": 165, 
-      "to": 154
+      "from": 151, 
+      "to": 156
     }, 
     {
-      "from": 166, 
-      "to": 154
+      "from": 152, 
+      "to": 156
     }, 
     {
-      "from": 50, 
-      "to": 154
+      "from": 153, 
+      "to": 156
     }, 
     {
-      "from": 51, 
-      "to": 154
-    }, 
-    {
-      "from": 155, 
-      "to": 167
-    }, 
-    {
-      "from": 156, 
-      "to": 167
-    }, 
-    {
-      "from": 157, 
-      "to": 167
-    }, 
-    {
-      "from": 158, 
-      "to": 167
-    }, 
-    {
-      "from": 159, 
-      "to": 167
-    }, 
-    {
-      "from": 160, 
-      "to": 167
-    }, 
-    {
-      "from": 161, 
-      "to": 167
-    }, 
-    {
-      "from": 162, 
-      "to": 167
-    }, 
-    {
-      "from": 163, 
-      "to": 167
-    }, 
-    {
-      "from": 164, 
-      "to": 167
-    }, 
-    {
-      "from": 165, 
-      "to": 167
-    }, 
-    {
-      "from": 166, 
-      "to": 167
-    }, 
-    {
-      "from": 50, 
-      "to": 167
-    }, 
-    {
-      "from": 51, 
-      "to": 167
+      "from": 154, 
+      "to": 156
     }, 
     {
       "from": 155, 
-      "to": 168
+      "to": 156
     }, 
     {
-      "from": 156, 
-      "to": 168
+      "from": 44, 
+      "to": 156
     }, 
     {
-      "from": 157, 
-      "to": 168
+      "from": 45, 
+      "to": 156
     }, 
     {
-      "from": 158, 
-      "to": 168
+      "from": 144, 
+      "to": 157
     }, 
     {
-      "from": 159, 
-      "to": 168
+      "from": 145, 
+      "to": 157
     }, 
     {
-      "from": 160, 
-      "to": 168
+      "from": 146, 
+      "to": 157
     }, 
     {
-      "from": 161, 
-      "to": 168
+      "from": 147, 
+      "to": 157
     }, 
     {
-      "from": 162, 
-      "to": 168
+      "from": 148, 
+      "to": 157
     }, 
     {
-      "from": 163, 
-      "to": 168
+      "from": 149, 
+      "to": 157
     }, 
     {
-      "from": 164, 
-      "to": 168
+      "from": 150, 
+      "to": 157
     }, 
     {
-      "from": 165, 
-      "to": 168
+      "from": 151, 
+      "to": 157
     }, 
     {
-      "from": 166, 
-      "to": 168
+      "from": 152, 
+      "to": 157
     }, 
     {
-      "from": 50, 
-      "to": 168
+      "from": 153, 
+      "to": 157
     }, 
     {
-      "from": 51, 
-      "to": 168
+      "from": 154, 
+      "to": 157
     }, 
     {
-      "from": 46, 
-      "to": 169
+      "from": 155, 
+      "to": 157
     }, 
     {
-      "from": 18, 
-      "to": 170
+      "from": 44, 
+      "to": 157
     }, 
     {
-      "from": 18, 
-      "to": 171
-    }, 
-    {
-      "from": 173, 
-      "to": 172
-    }, 
-    {
-      "from": 174, 
-      "to": 172
-    }, 
-    {
-      "from": 175, 
-      "to": 172
-    }, 
-    {
-      "from": 176, 
-      "to": 172
-    }, 
-    {
-      "from": 46, 
-      "to": 177
+      "from": 45, 
+      "to": 157
     }
   ], 
   "nodes": [
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "An introduction to the mathematical theory of computability. Formal languages. Finite automata and regular expression. Push-down automata and context-free languages. Computable or recursive functions: Turing machines, the halting problem. Undecidability. Credit not offered for both Math 166 and CSE 105. Equivalent to Math 166. ", 
       "edges_from": [
         1, 
         2, 
@@ -1014,11 +682,10 @@
         6, 
         7, 
         8, 
-        9, 
-        10
+        9
       ], 
       "edges_to": [
-        11
+        10
       ], 
       "id": 0, 
       "label": "CSE 105", 
@@ -1026,7 +693,7 @@
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
@@ -1037,11 +704,11 @@
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0, 
-        11
+        10
       ], 
       "id": 2, 
       "label": "CSE 21", 
@@ -1049,7 +716,7 @@
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
@@ -1060,7 +727,7 @@
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
@@ -1070,290 +737,223 @@
       "title": ""
     }, 
     {
-      "dept": "SENIOR_STANDING", 
-      "desc": "", 
+      "dept": "CSE", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
       ], 
       "id": 5, 
-      "label": "SENIOR_STANDING", 
-      "title": ""
-    }, 
-    {
-      "dept": "CSE", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        0
-      ], 
-      "id": 6, 
       "label": "CSE 15L", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
       ], 
-      "id": 7, 
+      "id": 6, 
       "label": "MATH 100A", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
       ], 
-      "id": 8, 
+      "id": 7, 
       "label": "MATH 109", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
       ], 
-      "id": 9, 
+      "id": 8, 
       "label": "MATH 103A", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
         0
       ], 
-      "id": 10, 
+      "id": 9, 
       "label": "MATH 15A", 
       "title": ""
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "Topics include private and public-key cryptography, block ciphers, data encryption, authentication, key distribution and certification, pseudorandom number generators, design and analysis of protocols, zero-knowledge proofs, and advanced protocols. Emphasizes rigorous mathematical approach including formal definitions of security goals and proofs of protocol security. ", 
       "edges_from": [
         0, 
         2, 
+        11, 
         12, 
         13, 
         14, 
-        15, 
-        16, 
-        17
+        15
       ], 
       "edges_to": [], 
-      "id": 11, 
+      "id": 10, 
       "label": "CSE 107", 
       "title": "Introduction to Modern Cryptography (4)"
     }, 
     {
-      "dept": "OTHER_STUDENTS_ALLOWABLE_AS_SPACE_PERMITS", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        11
-      ], 
-      "id": 12, 
-      "label": "OTHER_STUDENTS_ALLOWABLE_AS_SPACE_PERMITS", 
-      "title": ""
-    }, 
-    {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [
-        18, 
-        19, 
-        20
+        16, 
+        17
       ], 
       "edges_to": [
-        11
+        10
       ], 
-      "id": 13, 
+      "id": 11, 
       "label": "CSE 101", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        11
+        10
       ], 
-      "id": 14, 
+      "id": 12, 
       "label": "MATH 184A", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        11
+        10
       ], 
-      "id": 15, 
+      "id": 13, 
       "label": "MATH 15B", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        11
+        10
       ], 
-      "id": 16, 
+      "id": 14, 
       "label": "MATH 166", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        11
+        10
       ], 
-      "id": 17, 
+      "id": 15, 
       "label": "MATH 154", 
       "title": ""
     }, 
     {
-      "dept": "GRADUATE_STANDING", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        132, 
-        133, 
-        134, 
-        170, 
-        171, 
-        13, 
-        110, 
-        113, 
-        89, 
-        26
-      ], 
-      "id": 18, 
-      "label": "GRADUATE_STANDING", 
-      "title": ""
-    }, 
-    {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        13
+        11
       ], 
-      "id": 19, 
+      "id": 16, 
       "label": "MATH 176", 
       "title": ""
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        13
+        11
       ], 
-      "id": 20, 
+      "id": 17, 
       "label": "CSE 100", 
       "title": ""
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "Introduction to Probability and Statistics (4)", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 21, 
+      "id": 18, 
       "label": "CSE 103", 
       "title": "A Practical"
     }, 
     {
       "dept": "GLBH", 
-      "desc": "", 
+      "description": "Provides a foundational interdisciplinary understanding of complex global health issues and introduces major concepts and principles in global health. The course surveys the range of problems contributing to the global burden of disease and disability including infectious disease, mental illness, refugee and immigrant health, natural disasters, climate change, and food insecurity.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 22, 
+      "id": 19, 
       "label": "GLBH 20", 
       "title": "Introduction to Global Health (4)"
     }, 
     {
       "dept": "PHIL", 
-      "desc": "", 
+      "description": "Introduction to nineteenth-century philosophy, focusing on skepticism", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 23, 
+      "id": 20, 
       "label": "PHIL 33", 
       "title": "Philosophy between Reason and Despair (4)"
     }, 
     {
       "dept": "PHIL", 
-      "desc": "", 
+      "description": "Beginning with the contrast between medieval and early modern thought,", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 24, 
+      "id": 21, 
       "label": "PHIL 32", 
       "title": "Philosophy and the Rise of Modern Science  (4)"
     }, 
     {
       "dept": "PHIL", 
-      "desc": "", 
+      "description": "to Ancient Philosophy (4)", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 25, 
+      "id": 22, 
       "label": "PHIL 31", 
       "title": "Introduction"
     }, 
     {
       "dept": "HIEU", 
-      "desc": "", 
-      "edges_from": [
-        18, 
-        27
-      ], 
+      "description": "This course will be a comparative and thematic examination of the fascist movement and regimes in Europe from the 1920s to the 1940s. In particular, it will focus on the emergence of the two major fascist movements in Italy and Germany. Graduate students will be required to submit a more substantial piece of work with in-depth analysis and with an increased number of sources cited. A typical undergraduate paper would be ten pages, whereas a typical graduate paper would require engagement with primary sources, more extensive reading of secondary material, and be about twenty pages. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 26, 
+      "id": 23, 
       "label": "HIEU 172/272", 
       "title": "Comparative European Fascism (4)"
     }, 
     {
-      "dept": "DEPARTMENT_APPROVAL", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        91, 
-        136, 
-        141, 
-        99, 
-        56, 
-        57, 
-        26, 
-        59, 
-        60, 
-        58
-      ], 
-      "id": 27, 
-      "label": "DEPARTMENT_APPROVAL", 
-      "title": ""
-    }, 
-    {
       "dept": "PHIL", 
-      "desc": "", 
+      "description": "An exploration of central philosophical issues as they have been taken up in the diverse philosophical traditions of the Americas, such as indigenous philosophy, Latin American philosophy, American Pragmatism, and the Civil Rights movement, among others. Topics may include ethics, social and political philosophy, colonialism, philosophy of race and gender, environmentalism, and issues in philosophy of language.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 28, 
+      "id": 24, 
       "label": "PHIL 35", 
       "title": "Philosophy in the Americas (4)"
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "Project-based course developing tools and techniques of observational astrophysical research: photon counting, imaging, spectroscopy, astrometry; collecting data at the telescope; data reduction and analysis; probability functions; error analysis techniques; and scientific writing. ", 
       "edges_from": [
         32, 
         33, 
@@ -1362,610 +962,586 @@
         36, 
         37, 
         38, 
-        39, 
-        40, 
-        41, 
-        42, 
+        26, 
+        27, 
+        28, 
+        29, 
         30, 
         31
       ], 
       "edges_to": [], 
-      "id": 29, 
+      "id": 25, 
       "label": "PHYS 164", 
       "title": "Observational Astrophysics Research Lab (4)"
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        40, 
-        33, 
-        35, 
+        32, 
+        25, 
         36, 
-        29
+        29, 
+        31
       ], 
-      "id": 30, 
+      "id": 26, 
       "label": "PHYS 2A", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        40, 
-        33, 
-        35, 
+        32, 
+        25, 
         36, 
-        29
+        29, 
+        31
       ], 
-      "id": 31, 
+      "id": 27, 
       "label": "PHYS 2C", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        33, 
-        35, 
+        32, 
+        130, 
         36, 
-        40, 
-        141, 
-        29
+        25, 
+        29, 
+        31
       ], 
-      "id": 32, 
+      "id": 28, 
       "label": "PHYS 2B", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [
-        32, 
+        33, 
         34, 
+        35, 
         37, 
         38, 
-        39, 
-        41, 
-        42, 
-        30, 
-        31
+        26, 
+        27, 
+        28, 
+        30
       ], 
       "edges_to": [
-        29
+        25
       ], 
-      "id": 33, 
+      "id": 29, 
       "label": "PHYS 163", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        40, 
-        33, 
-        35, 
+        32, 
+        25, 
         36, 
-        29
+        29, 
+        31
       ], 
-      "id": 34, 
+      "id": 30, 
       "label": "PHYS 2D", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [
-        32, 
+        33, 
         34, 
+        35, 
         37, 
         38, 
-        39, 
-        41, 
-        42, 
-        30, 
-        31
+        26, 
+        27, 
+        28, 
+        30
       ], 
       "edges_to": [
-        29
+        25
       ], 
-      "id": 35, 
+      "id": 31, 
       "label": "PHYS 161", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [
-        32, 
+        33, 
         34, 
+        35, 
         37, 
         38, 
-        39, 
-        41, 
-        42, 
-        30, 
-        31
+        26, 
+        27, 
+        28, 
+        30
       ], 
       "edges_to": [
-        29
+        25
       ], 
-      "id": 36, 
+      "id": 32, 
       "label": "PHYS 160", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        40, 
-        33, 
-        35, 
+        32, 
+        25, 
         36, 
-        29
+        29, 
+        31
       ], 
-      "id": 37, 
+      "id": 33, 
       "label": "PHYS 4C", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        40, 
-        33, 
-        35, 
+        32, 
+        25, 
         36, 
-        29
+        29, 
+        31
       ], 
-      "id": 38, 
+      "id": 34, 
       "label": "PHYS 4B", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        40, 
-        33, 
-        35, 
+        32, 
+        25, 
         36, 
-        29
+        29, 
+        31
       ], 
-      "id": 39, 
+      "id": 35, 
       "label": "PHYS 4A", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [
-        32, 
+        33, 
         34, 
+        35, 
         37, 
         38, 
-        39, 
-        41, 
-        42, 
-        30, 
-        31
+        26, 
+        27, 
+        28, 
+        30
       ], 
       "edges_to": [
-        29
+        25
       ], 
-      "id": 40, 
+      "id": 36, 
       "label": "PHYS 162", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        40, 
-        33, 
-        35, 
+        32, 
+        25, 
         36, 
-        29
+        29, 
+        31
       ], 
-      "id": 41, 
+      "id": 37, 
       "label": "PHYS 4E", 
       "title": ""
     }, 
     {
       "dept": "PHYS", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        40, 
-        33, 
-        35, 
+        32, 
+        25, 
         36, 
-        29
+        29, 
+        31
       ], 
-      "id": 42, 
+      "id": 38, 
       "label": "PHYS 4D", 
       "title": ""
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "(Formerly CSE 228H.) Techniques for speeding up Internet implementations, including system restructuring, new algorithms, and hardware innovations. Topics include: models for protocols, systems and hardware; efficiency principles; applying these principles to deriving techniques for efficient implementation of common endnode and router functions. ", 
       "edges_from": [
-        44, 
-        45, 
-        46
+        40, 
+        41
       ], 
       "edges_to": [], 
-      "id": 43, 
+      "id": 39, 
       "label": "CSE 222B", 
       "title": "Internet Algorithmics (4)"
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [
-        45, 
-        46
+        41
       ], 
       "edges_to": [
-        43
+        39
       ], 
-      "id": 44, 
+      "id": 40, 
       "label": "CSE 222A", 
       "title": ""
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        43, 
-        44
+        40, 
+        39
       ], 
-      "id": 45, 
+      "id": 41, 
       "label": "CSE 123A", 
       "title": ""
     }, 
     {
-      "dept": "INSTRUCTOR_APPROVAL", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        128, 
-        131, 
-        137, 
-        138, 
-        140, 
-        150, 
-        169, 
+      "dept": "CAT", 
+      "description": "Individual independent research or creative project. Designated for Sixth College students to have the opportunity to work on a project supervised by a faculty member in a specific department, where the subject or content of the project cannot be represented by the academic department of the faculty member. ", 
+      "edges_from": [
         43, 
         44, 
-        177, 
-        54, 
-        56, 
-        57, 
-        58, 
-        61, 
-        64, 
-        81, 
-        85, 
-        86, 
-        88, 
-        89, 
-        91, 
-        106, 
-        109, 
-        110, 
-        113, 
-        124
-      ], 
-      "id": 46, 
-      "label": "INSTRUCTOR_APPROVAL", 
-      "title": ""
-    }, 
-    {
-      "dept": "CAT", 
-      "desc": "", 
-      "edges_from": [
-        48, 
-        49, 
-        50, 
-        51, 
-        52
+        45
       ], 
       "edges_to": [], 
-      "id": 47, 
+      "id": 42, 
       "label": "CAT 199", 
       "title": "Culture, Art, and Technology Independent Studies (4)"
     }, 
     {
       "dept": "CAT", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        55, 
-        53, 
-        47
+        48, 
+        42, 
+        46
       ], 
-      "id": 48, 
+      "id": 43, 
       "label": "CAT 1", 
       "title": ""
     }, 
     {
-      "dept": "FOR_TRANSFER_STUDENTS", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        55, 
-        53, 
-        47
-      ], 
-      "id": 49, 
-      "label": "FOR_TRANSFER_STUDENTS", 
-      "title": ""
-    }, 
-    {
       "dept": "CAT", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        167, 
-        168, 
-        47, 
-        53, 
-        55, 
-        154
+        42, 
+        46, 
+        143, 
+        48, 
+        156, 
+        157
       ], 
-      "id": 50, 
+      "id": 44, 
       "label": "CAT 3", 
       "title": ""
     }, 
     {
       "dept": "CAT", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        167, 
-        168, 
-        47, 
-        53, 
-        55, 
-        154
+        42, 
+        46, 
+        143, 
+        48, 
+        156, 
+        157
       ], 
-      "id": 51, 
+      "id": 45, 
       "label": "CAT 2", 
       "title": ""
     }, 
     {
-      "dept": "UPPER_DIVISION_STANDING", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        128, 
-        131, 
-        99, 
-        68, 
-        86, 
-        70, 
-        72, 
-        74, 
-        76, 
-        47, 
-        81, 
-        82, 
-        79, 
-        53, 
-        54, 
-        55, 
-        56, 
-        59, 
-        93, 
-        150, 
-        85
-      ], 
-      "id": 52, 
-      "label": "UPPER_DIVISION_STANDING", 
-      "title": ""
-    }, 
-    {
       "dept": "CAT", 
-      "desc": "", 
+      "description": "Directed group studies or, in group, field studies of a creative project. Designated for Sixth College students to have the opportunity to work together as a group or team on a project supervised by a faculty member in a specific department, not included in a regular curriculum, where group emphasis would be more beneficial and constructive than individual special studies. ", 
       "edges_from": [
-        48, 
-        49, 
-        50, 
-        51, 
-        52
+        43, 
+        44, 
+        45
       ], 
       "edges_to": [], 
-      "id": 53, 
+      "id": 46, 
       "label": "CAT 198", 
       "title": "Culture, Art, and Technology Directed Group Studies (4)"
     }, 
     {
       "dept": "CAT", 
-      "desc": "", 
-      "edges_from": [
-        52, 
-        46
-      ], 
+      "description": "Undergraduate instructional assistance. Responsibilities in areas of learning and instruction. May collect course material and assist with course projects, digital workshops, and collection, organization and analysis of formative assessment data. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 54, 
+      "id": 47, 
       "label": "CAT 195", 
       "title": "Apprentice Teaching (4)"
     }, 
     {
       "dept": "CAT", 
-      "desc": "", 
+      "description": "Supervised community-based or industry-based fieldwork. Designated for Sixth College students to have the opportunity to work on a community-based or industry-based project supervised by a faculty member and community or industry mentor in which the subject or content of the project cannot be represented by a specific academic department. Students will submit written evaluations each week of their ongoing field study. ", 
       "edges_from": [
-        48, 
-        49, 
-        50, 
-        51, 
-        52
+        43, 
+        44, 
+        45
       ], 
       "edges_to": [], 
-      "id": 55, 
+      "id": 48, 
       "label": "CAT 197", 
       "title": "Culture, Art, and Technology Field Studies (4)"
     }, 
     {
       "dept": "CAT", 
-      "desc": "", 
-      "edges_from": [
-        27, 
-        52, 
-        46
-      ], 
+      "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in Culture, Art, and Technology (at the upper-division level). Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times with a change in topic and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 56, 
+      "id": 49, 
       "label": "CAT 192", 
       "title": "Senior Seminar in Culture, Art, and Technology (1)"
     }, 
     {
       "dept": "SE", 
-      "desc": "", 
-      "edges_from": [
-        27, 
-        46
-      ], 
+      "description": "Directed group study, on a topic or in a field not included in the regular department curriculum, by special arrangement with a faculty member. (P/NP grades only.) ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 57, 
+      "id": 50, 
       "label": "SE 198", 
       "title": "Directed Study Group (4)"
     }, 
     {
       "dept": "SE", 
-      "desc": "", 
-      "edges_from": [
-        27, 
-        46
-      ], 
+      "description": "Independent reading or research on a problem by special arrangement with a faculty member. (P/NP grades only.) ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 58, 
+      "id": 51, 
       "label": "SE 199", 
       "title": "Independent Study (1\u20134)"
     }, 
     {
       "dept": "SE", 
-      "desc": "", 
-      "edges_from": [
-        27, 
-        52
-      ], 
+      "description": "Teaching and tutorial assistance in a SE course under supervision of instructor. Not more than four units may be used to satisfy graduation requirements. (P/NP grades only.) ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 59, 
+      "id": 52, 
       "label": "SE 195", 
       "title": "Teaching (2\u20134)"
     }, 
     {
       "dept": "SE", 
-      "desc": "", 
-      "edges_from": [
-        27
-      ], 
+      "description": "An enrichment program, available to a limited number of undergraduate students, which provides work experience with industry, government offices, etc., under the supervision of a faculty member and industrial supervisor. Coordination of the Engineering Internship is conducted through UC San Diego\u2019s Academic Internship Program. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 60, 
+      "id": 53, 
       "label": "SE 197", 
       "title": "Engineering Internship (1\u20134)"
     }, 
     {
       "dept": "BENG", 
-      "desc": "", 
+      "description": "Development of design project in bioinformatics bioengineering. ", 
       "edges_from": [
-        46, 
-        62, 
-        63
+        55
       ], 
       "edges_to": [
-        64
+        56
       ], 
-      "id": 61, 
+      "id": 54, 
       "label": "BENG 126A", 
       "title": "Design Development in Bioinformatics Bioengineering (3)"
     }, 
     {
-      "dept": "BIOENGINEERING_OR_BIOTECH_MAJORS_ONLY", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        64, 
-        61
-      ], 
-      "id": 62, 
-      "label": "BIOENGINEERING_OR_BIOTECH_MAJORS_ONLY", 
-      "title": ""
-    }, 
-    {
       "dept": "BENG", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        61
+        54
       ], 
-      "id": 63, 
+      "id": 55, 
       "label": "BENG 187B", 
       "title": ""
     }, 
     {
       "dept": "BENG", 
-      "desc": "", 
+      "description": "Implementation of design project in bioinformatics bioengineering. ", 
       "edges_from": [
-        65, 
-        62, 
-        61, 
-        46
+        57, 
+        54
       ], 
       "edges_to": [], 
-      "id": 64, 
+      "id": 56, 
       "label": "BENG 126B", 
       "title": "Design Implementation in Bioinformatics Bioengineering (3)"
     }, 
     {
       "dept": "BENG", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        64
+        56
       ], 
-      "id": 65, 
+      "id": 57, 
       "label": "BENG 187C", 
       "title": ""
     }, 
     {
       "dept": "ANTH", 
-      "desc": "", 
+      "description": "This course focuses on the debate about multiculturalism in American society. It examines the interaction of race, ethnicity, and class, historically and comparatively, and considers the problem of citizenship in relation to the growing polarization of multiple social identities.", 
       "edges_from": [], 
       "edges_to": [
-        99
+        90
       ], 
-      "id": 66, 
+      "id": 58, 
       "label": "ANTH 23", 
       "title": "Debating Multiculturalism: Race, Ethnicity, and Class in American Societies (4)"
     }, 
     {
       "dept": "ANTH", 
-      "desc": "", 
+      "description": "Why does racism still matter? How is racism experienced in the United States and across the globe? With insights from the biology of human variation, archaeology, colonial history, and sociocultural anthropology, we examine how notions of race and ethnicity structure contemporary societies.", 
       "edges_from": [], 
       "edges_to": [
-        99
+        90
       ], 
-      "id": 67, 
+      "id": 59, 
       "label": "ANTH 21", 
       "title": "Race and Racisms (4)"
     }, 
     {
       "dept": "SOCI", 
-      "desc": "", 
+      "description": "Examination of sociological theories for why people have religious beliefs. Also examines types of religious organizations, secularization, fundamentalism, religion and immigration, religion and politics, and religiously inspired violence and terrorism. The class will tend to focus on the American context. ", 
       "edges_from": [
-        52, 
+        60, 
+        61
+      ], 
+      "edges_to": [
+        60
+      ], 
+      "id": 60, 
+      "label": "SOCI 154", 
+      "title": "Religious Institutions in America (4)"
+    }, 
+    {
+      "dept": "SOCC", 
+      "description": "", 
+      "edges_from": [], 
+      "edges_to": [
+        60
+      ], 
+      "id": 61, 
+      "label": "SOCC 154", 
+      "title": ""
+    }, 
+    {
+      "dept": "SOCI", 
+      "description": "A research-oriented course studying a specific city. Students will describe and analyze a local community of San Diego. Additional work on one citywide institution. Guest lecturers from San Diego organizations and government. Readings largely from city reports and news media. ", 
+      "edges_from": [
+        62, 
+        63
+      ], 
+      "edges_to": [
+        62
+      ], 
+      "id": 62, 
+      "label": "SOCI 155", 
+      "title": "The City of San Diego (4)"
+    }, 
+    {
+      "dept": "SOCC", 
+      "description": "", 
+      "edges_from": [], 
+      "edges_to": [
+        62
+      ], 
+      "id": 63, 
+      "label": "SOCC 155", 
+      "title": ""
+    }, 
+    {
+      "dept": "SOCI", 
+      "description": "Diverse sociological explanations of religious ideas and religious behavior. The social consequences of different kinds of religious beliefs and religious organizations. The influence of religion upon concepts of history, the natural world, human nature, and the social order. The significance of such notions as \u201csacred peoples\u201d and \u201csacred places.\u201d The religious-like character of certain political movements and certain sociocultural attitudes. ", 
+      "edges_from": [
+        64, 
+        65
+      ], 
+      "edges_to": [
+        64
+      ], 
+      "id": 64, 
+      "label": "SOCI 156", 
+      "title": "Sociology of Religion (4)"
+    }, 
+    {
+      "dept": "SOCC", 
+      "description": "", 
+      "edges_from": [], 
+      "edges_to": [
+        64
+      ], 
+      "id": 65, 
+      "label": "SOCC 156", 
+      "title": ""
+    }, 
+    {
+      "dept": "SOCI", 
+      "description": "Sacred texts, religious experiences, and ritual settings are explored from the perspective of sociological analysis. The types and dynamic of religious sects and institutions are examined. African and contemporary US religious data provide resources for lecture and comparative analysis. ", 
+      "edges_from": [
+        66, 
+        67
+      ], 
+      "edges_to": [
+        66
+      ], 
+      "id": 66, 
+      "label": "SOCI 157", 
+      "title": "Religion in Contemporary Society (4)"
+    }, 
+    {
+      "dept": "SOCC", 
+      "description": "", 
+      "edges_from": [], 
+      "edges_to": [
+        66
+      ], 
+      "id": 67, 
+      "label": "SOCC 157", 
+      "title": ""
+    }, 
+    {
+      "dept": "SOCI", 
+      "description": "Hollywood has had an ongoing obsession with mental illness. This course will examine a number of important or iconic films on this subject. By examining them against a background provided by relevant scholarly materials, we shall develop a critical perspective on these cultural artifacts. ", 
+      "edges_from": [
         68, 
         69
       ], 
@@ -1973,1325 +1549,1071 @@
         68
       ], 
       "id": 68, 
-      "label": "SOCI 154", 
-      "title": "Religious Institutions in America (4)"
-    }, 
-    {
-      "dept": "SOCC", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        68
-      ], 
-      "id": 69, 
-      "label": "SOCC 154", 
-      "title": ""
-    }, 
-    {
-      "dept": "SOCI", 
-      "desc": "", 
-      "edges_from": [
-        52, 
-        70, 
-        71
-      ], 
-      "edges_to": [
-        70
-      ], 
-      "id": 70, 
-      "label": "SOCI 155", 
-      "title": "The City of San Diego (4)"
-    }, 
-    {
-      "dept": "SOCC", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        70
-      ], 
-      "id": 71, 
-      "label": "SOCC 155", 
-      "title": ""
-    }, 
-    {
-      "dept": "SOCI", 
-      "desc": "", 
-      "edges_from": [
-        72, 
-        73, 
-        52
-      ], 
-      "edges_to": [
-        72
-      ], 
-      "id": 72, 
-      "label": "SOCI 156", 
-      "title": "Sociology of Religion (4)"
-    }, 
-    {
-      "dept": "SOCC", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        72
-      ], 
-      "id": 73, 
-      "label": "SOCC 156", 
-      "title": ""
-    }, 
-    {
-      "dept": "SOCI", 
-      "desc": "", 
-      "edges_from": [
-        74, 
-        75, 
-        52
-      ], 
-      "edges_to": [
-        74
-      ], 
-      "id": 74, 
-      "label": "SOCI 157", 
-      "title": "Religion in Contemporary Society (4)"
-    }, 
-    {
-      "dept": "SOCC", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        74
-      ], 
-      "id": 75, 
-      "label": "SOCC 157", 
-      "title": ""
-    }, 
-    {
-      "dept": "SOCI", 
-      "desc": "", 
-      "edges_from": [
-        52, 
-        76, 
-        77
-      ], 
-      "edges_to": [
-        76
-      ], 
-      "id": 76, 
       "label": "SOCI 150", 
       "title": "Madness and the Movies (4)"
     }, 
     {
       "dept": "SOCC", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        76
+        68
       ], 
-      "id": 77, 
+      "id": 69, 
       "label": "SOCC 150", 
       "title": ""
     }, 
     {
       "dept": "GPPA", 
-      "desc": "", 
+      "description": "Why do public authorities inefficiently distribute scarce economic resources? What are the impacts of such inefficient distribution on welfare and economic development? And how do we design policies to limit inefficiencies in distribution? This course surveys the literature on distributive politics to address these questions.\u00a0Students may not receive credit for GPPA 405 and the IRGN 490 with the same title.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 78, 
+      "id": 70, 
       "label": "GPPA 405", 
       "title": "Managing the Distributive Politics of Public Policy (4)"
     }, 
     {
       "dept": "SOCI", 
-      "desc": "", 
+      "description": "(Same as USP 133.) Primary focus on understanding and analyzing poverty and public policy. Analysis of how current debates and public policy initiatives mesh with alternative social scientific explorations of poverty. ", 
       "edges_from": [
-        80, 
-        52, 
-        79
+        72, 
+        71
       ], 
       "edges_to": [
-        79
+        71
       ], 
-      "id": 79, 
+      "id": 71, 
       "label": "SOCI 152", 
       "title": "Social Inequality and Public Policy (4)"
     }, 
     {
       "dept": "SOCC", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        79
+        71
       ], 
-      "id": 80, 
+      "id": 72, 
       "label": "SOCC 152", 
       "title": ""
     }, 
     {
       "dept": "Linguistics/Heritage", 
-      "desc": "", 
-      "edges_from": [
-        52, 
-        46
-      ], 
+      "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on domestic culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Filipino. LIHL 132F, LIHL 132W, and LIHL 132P may be taken in any order. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 81, 
+      "id": 73, 
       "label": "Linguistics/Heritage Languages (LIHL) 132F", 
       "title": "Advanced Filipino for Filipino Speakers (4)"
     }, 
     {
       "dept": "SOCI", 
-      "desc": "", 
+      "description": "The role of Islam in the society, culture, and politics of the Muslim people during the nineteenth and twentieth centuries; attempts by Muslim thinkers to accommodate or reject rival ideologies (such as nationalism and socialism); and a critical review of the relationship between Islam and the West. ", 
       "edges_from": [
-        82, 
-        83, 
-        52
+        74, 
+        75
       ], 
       "edges_to": [
-        82
+        74
       ], 
-      "id": 82, 
+      "id": 74, 
       "label": "SOCI 158", 
       "title": "Islam in the Modern World (4)"
     }, 
     {
       "dept": "SOCD", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        82
+        74
       ], 
-      "id": 83, 
+      "id": 75, 
       "label": "SOCD 158", 
       "title": ""
     }, 
     {
       "dept": "SOCI", 
-      "desc": "", 
+      "description": "Topics in Social Organizations and Institutions (4)", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 84, 
+      "id": 76, 
       "label": "SOCI 159", 
       "title": "Special"
     }, 
     {
       "dept": "Linguistics/Heritage", 
-      "desc": "", 
-      "edges_from": [
-        52, 
-        46
-      ], 
+      "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on entertainment/culture. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Filipino. LIHL 132F, LIHL 132W, and LIHL 132P may be taken in any order. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 85, 
+      "id": 77, 
       "label": "Linguistics/Heritage Languages (LIHL) 132P", 
       "title": "Advanced Filipino for Filipino Speakers (4)"
     }, 
     {
       "dept": "Linguistics/Heritage", 
-      "desc": "", 
-      "edges_from": [
-        52, 
-        46
-      ], 
+      "description": "Instruction stresses language function required for advanced oral communication, reading, writing, and cultural understanding in professional contexts, with emphasis on media/arts. High-level vocabulary and texts; dialect differences and formal language styles (registers). Advanced structural analysis and history of Filipino. LIHL 132F, LIHL 132W, and LIHL 132P may be taken in any order. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 86, 
+      "id": 78, 
       "label": "Linguistics/Heritage Languages (LIHL) 132W", 
       "title": "Advanced Filipino for Filipino Speakers (4)"
     }, 
     {
       "dept": "HDP", 
-      "desc": "", 
+      "description": "Topics Seminar in Human Development (4)", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 87, 
+      "id": 79, 
       "label": "HDP 160", 
       "title": "Special"
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "Theory of computation and recursive function theory, Church\u2019s thesis, computability and undecidability. Feasible computability and complexity. Peano arithmetic and the incompleteness theorems, nonstandard models. ", 
       "edges_from": [
-        89, 
-        46
+        81
       ], 
       "edges_to": [], 
-      "id": 88, 
+      "id": 80, 
       "label": "MATH 260B", 
       "title": "Mathematical Logic II (4)"
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
-      "edges_from": [
-        18, 
-        46
-      ], 
+      "description": "", 
+      "edges_from": [], 
       "edges_to": [
-        88
+        80
       ], 
-      "id": 89, 
+      "id": 81, 
       "label": "MATH 260A", 
       "title": ""
     }, 
     {
       "dept": "POLI", 
-      "desc": "", 
+      "description": "This course analyzes the political system of China since 1949, including political institutions, the policy-making process, and the relationship between politics and economics. The main focus is on the post-Mao era of reform beginning in 1978.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 90, 
+      "id": 82, 
       "label": "POLI 130B", 
       "title": "Politics in the People\u2019s Republic of China (4)"
     }, 
     {
       "dept": "SE", 
-      "desc": "", 
-      "edges_from": [
-        27, 
-        92, 
-        46
-      ], 
+      "description": "Independent study or research under direction of a faculty member. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 91, 
+      "id": 83, 
       "label": "SE 99H", 
       "title": "Independent Study (1)"
     }, 
     {
-      "dept": "REQUIRES_FIRST_YEAR_STUDENT", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        91
-      ], 
-      "id": 92, 
-      "label": "REQUIRES_FIRST_YEAR_STUDENT", 
-      "title": ""
-    }, 
-    {
       "dept": "ANTH", 
-      "desc": "", 
-      "edges_from": [
-        52
-      ], 
+      "description": "This course explores the nature of human social systems over the long term. Returning to the original project of anthropology in the broadest sense, we examine the origins and reproduction of the state, social classes, multiethnic configurations, and political economies. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 93, 
+      "id": 84, 
       "label": "ANTH 147", 
       "title": "Understanding the Human Social Order: Anthropology and the Long-Term (4)"
     }, 
     {
       "dept": "HITO", 
-      "desc": "", 
+      "description": "This course will examine the development of Gnostic Christianity in the first four centuries CE. Students will also explore similar non-Christian religious movements that claimed to have special knowledge (gnosis) of the self, the material world, and the divine.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 94, 
+      "id": 85, 
       "label": "HITO 103S", 
       "title": "Gnosis and Gnosticism (4)"
     }, 
     {
       "dept": "HIUS", 
-      "desc": "", 
+      "description": "This course explores the emergence of a dominant ideology of womanhood in America in the early nineteenth century and contrasts the ideal with the historically diverse experience of women of different races and classes, from settlement to 1870. Topics include witchcraft, evangelicalism, cult of domesticity, sexuality, rise of industrial capitalism and the transformation of women\u2019s work, the Civil War, and the first feminist movement.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 95, 
+      "id": 86, 
       "label": "HIUS 156D", 
       "title": "American Women, American Womanhood (4)"
     }, 
     {
       "dept": "MAE", 
-      "desc": "", 
+      "description": "Thermodynamic analysis of power cycles with application to combustion driven engines: internal combustion, diesel, and gas turbines. Thermodynamics of mixtures and chemical and phase equilibrium. Computational methods for calculating chemical equilibrium. Renumbered from MAE 110B. Students may not receive credit for MAE 110 and MAE 110B. ", 
       "edges_from": [
-        97, 
-        98
+        88, 
+        89
       ], 
       "edges_to": [], 
-      "id": 96, 
+      "id": 87, 
       "label": "MAE 110", 
       "title": "Thermodynamic Systems (4)"
     }, 
     {
       "dept": "MAE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        96
+        87
       ], 
-      "id": 97, 
+      "id": 88, 
       "label": "MAE 110A", 
       "title": ""
     }, 
     {
       "dept": "MAE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        96
+        87
       ], 
-      "id": 98, 
+      "id": 89, 
       "label": "MAE 11", 
       "title": ""
     }, 
     {
       "dept": "ANSC", 
-      "desc": "", 
+      "description": "Popular representations of South Asia abound in clich\u00e9s: poverty and luxury, cities and hamlets, ascetics and call centers. What do these clich\u00e9s do to our understanding of South Asia? How do we get beneath or beyond these representations? We will respond to these questions by exploring how people in South Asia live on a day-to-day basis, while also attending to how major historical events, such as colonialism and the Partition of India and Pakistan, shape contemporary life and politics. Program or materials fees may apply. ", 
       "edges_from": [
-        66, 
-        67, 
-        100, 
-        101, 
-        102, 
-        103, 
-        104, 
-        105, 
-        52, 
-        27
+        96, 
+        59, 
+        58, 
+        91, 
+        92, 
+        93, 
+        94, 
+        95
       ], 
       "edges_to": [], 
-      "id": 99, 
+      "id": 90, 
       "label": "ANSC 191GS", 
       "title": "Everyday Life in South Asia: Beyond the Clich\u00e9s (4)"
     }, 
     {
       "dept": "ANSC", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        99
+        90
       ], 
-      "id": 100, 
+      "id": 91, 
       "label": "ANSC 148", 
       "title": ""
     }, 
     {
       "dept": "ANTH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        99
+        90
       ], 
-      "id": 101, 
+      "id": 92, 
       "label": "ANTH 103", 
       "title": ""
     }, 
     {
       "dept": "ANSC", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        99
+        90
       ], 
-      "id": 102, 
+      "id": 93, 
       "label": "ANSC 155", 
       "title": ""
     }, 
     {
       "dept": "ANTH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        99
+        90
       ], 
-      "id": 103, 
+      "id": 94, 
       "label": "ANTH 1", 
       "title": ""
     }, 
     {
       "dept": "ANSC", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        99
+        90
       ], 
-      "id": 104, 
+      "id": 95, 
       "label": "ANSC 164", 
       "title": ""
     }, 
     {
       "dept": "ANSC", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        99
+        90
       ], 
-      "id": 105, 
+      "id": 96, 
       "label": "ANSC 121", 
       "title": ""
     }, 
     {
       "dept": "MAE", 
-      "desc": "", 
+      "description": "Overview of present day primary energy sources and availability; fossil fuel, renewable, and nuclear; heat engines; energy conservation, transportation, air pollution, and climate change. Students may not receive credit for both MAE 118 and MAE 118A. ", 
       "edges_from": [
-        107, 
-        108, 
-        46
+        98, 
+        99
       ], 
       "edges_to": [], 
-      "id": 106, 
+      "id": 97, 
       "label": "MAE 118", 
       "title": "Introduction to Energy Systems (4)"
     }, 
     {
       "dept": "CENG", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        106, 
-        109
+        97, 
+        100
       ], 
-      "id": 107, 
+      "id": 98, 
       "label": "CENG 101A", 
       "title": ""
     }, 
     {
       "dept": "MAE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        106, 
-        109
+        97, 
+        100
       ], 
-      "id": 108, 
+      "id": 99, 
       "label": "MAE 101A", 
       "title": ""
     }, 
     {
       "dept": "MAE", 
-      "desc": "", 
+      "description": "Basic principles of solar radiation\u2014diffuse and direct radiation; elementary solar energy engineering\u2014solar thermal and solar photovoltaic; basic principles of wind dynamics\u2014hydrodynamic laws, wind intermittency, Betz\u2019s law; elementary wind energy engineering; solar and wind energy perspectives; operating the California power grid with 33 percent renewable energy sources. Students may not receive credit for both MAE 118B and MAE 119. ", 
       "edges_from": [
-        107, 
-        108, 
-        46
+        98, 
+        99
       ], 
       "edges_to": [], 
-      "id": 109, 
+      "id": 100, 
       "label": "MAE 119", 
       "title": "Introduction to Renewable Energy: Solar and Wind (4)"
     }, 
     {
       "dept": "PHIL", 
-      "desc": "", 
-      "edges_from": [
-        18, 
-        46
-      ], 
+      "description": "An introduction to central topics in philosophy of mind with emphasis on classic texts or contemporary authors.\u00a0May be taken for credit three times with changed content.\u00a0", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 110, 
+      "id": 101, 
       "label": "PHIL 207", 
       "title": "Core Course in Philosophy of Mind (4)"
     }, 
     {
       "dept": "PHIL", 
-      "desc": "", 
+      "description": "Introduction to philosophical methods of analysis through study of classic historical or contemporary texts. Writing intensive. Enrollment limited to entering graduate students.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 111, 
+      "id": 102, 
       "label": "PHIL 200", 
       "title": "Proseminar (4)"
     }, 
     {
       "dept": "PHIL", 
-      "desc": "", 
+      "description": "An introduction to some central issues in ethical theory with emphasis on classic texts or contemporary authors. May be taken for credit three times with changed content.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 112, 
+      "id": 103, 
       "label": "PHIL 202", 
       "title": "Core Course in Ethics (4)"
     }, 
     {
       "dept": "PHIL", 
-      "desc": "", 
-      "edges_from": [
-        18, 
-        46
-      ], 
+      "description": "An introduction to central topics in philosophy of language with emphasis on classic texts or contemporary authors.\u00a0May be taken for credit three times with changed content. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 113, 
+      "id": 104, 
       "label": "PHIL 208", 
       "title": "Core Course in Philosophy of Language (4)"
     }, 
     {
       "dept": "CLRE", 
-      "desc": "", 
+      "description": "Scholars will select the appropriate sampling method and determine the sample size necessary for specific projects and adjust for confounding. Participants will be familiar with several specialized analytic techniques, including matched, cluster, and meta-analyses. They will also be familiar with methodological issues, unique to ecological, behavioral, and genetic studies. Class sessions may also be offered live via distance learning with established remote site. ", 
       "edges_from": [
-        115
+        106
       ], 
       "edges_to": [], 
-      "id": 114, 
+      "id": 105, 
       "label": "CLRE 257", 
       "title": "Epidemiology II (2)"
     }, 
     {
       "dept": "CLRE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        114
+        105
       ], 
-      "id": 115, 
+      "id": 106, 
       "label": "CLRE 251", 
       "title": ""
     }, 
     {
       "dept": "CLRE", 
-      "desc": "", 
+      "description": "This course will review the ethics and basic regulatory issues for research involving human subjects, including\u00a0access and confidentiality. Scholars will prepare a mock submission to an IRB for peer review and practice and will also review their peers\u2019 proposals. Class sessions may also be offered live via distance learning with established remote site. ", 
       "edges_from": [
-        117
+        108
       ], 
       "edges_to": [], 
-      "id": 116, 
+      "id": 107, 
       "label": "CLRE 256", 
       "title": "Patient-Oriented Research II (2)"
     }, 
     {
       "dept": "CLRE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        116
+        107
       ], 
-      "id": 117, 
+      "id": 108, 
       "label": "CLRE 250", 
       "title": ""
     }, 
     {
       "dept": "CLRE", 
-      "desc": "", 
+      "description": "This course provides an orientation to database design and management and covers key issues regarding data handling for clinical research and clinical trials. Scholars will also become familiar with technology assessment and decision-making methods and analysis. Class sessions may also be offered live via distance learning with established remote site.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 118, 
+      "id": 109, 
       "label": "CLRE 255", 
       "title": "Data Management and Informatics (2)"
     }, 
     {
       "dept": "CLRE", 
-      "desc": "", 
+      "description": "Scholars will understand and conduct advanced biostatistical analyses including: multiple linear and logistic regression, survival analysis, and Cox and extended Cox regression. The scholar will also be familiar with person-time rate analysis with Poisson regression and longitudinal data analysis in the presence of missing values and varying measurement times. Class sessions may also be offered live via distance learning with established remote site. ", 
       "edges_from": [
-        120
+        111
       ], 
       "edges_to": [], 
-      "id": 119, 
+      "id": 110, 
       "label": "CLRE 254", 
       "title": "Biostatistics II (2)"
     }, 
     {
       "dept": "CLRE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        119
+        110
       ], 
-      "id": 120, 
+      "id": 111, 
       "label": "CLRE 253", 
       "title": ""
     }, 
     {
       "dept": "CLRE", 
-      "desc": "", 
+      "description": "Scholars will evaluate relevant outcomes in patient-oriented research from the patient (quality of life) and societal (economic) perspectives and locate potential resources for assessing the relevant outcomes in a wide variety of study designs. They will also be able to describe the relative strengths of different health services research approaches to a clinical problem. Finally, they will understand the components of clinical practice guidelines, including patient preferences, and how these guidelines both depend upon as well as inform patient-oriented research. Class sessions may also be offered live via distance learning with established remote site.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 121, 
+      "id": 112, 
       "label": "CLRE 252", 
       "title": "Health Services Research (2)"
     }, 
     {
       "dept": "MUS", 
-      "desc": "", 
-      "edges_from": [
-        123
-      ], 
+      "description": "Repertoire is drawn from the classic symphonic literature of the eighteenth, nineteenth, and twentieth centuries with a strong emphasis on recently composed and new music. Distinguished soloists, as well as The La Jolla Symphony Chorus, frequently appear with the orchestra. The La Jolla Symphony Orchestra performs two full-length programs each quarter, each program being performed twice. May be repeated six times for credit. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 122, 
+      "id": 113, 
       "label": "MUS 234", 
       "title": "Symphonic Orchestra (4)"
     }, 
     {
-      "dept": "REQUIRES_AUDITION", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        122
-      ], 
-      "id": 123, 
-      "label": "REQUIRES_AUDITION", 
-      "title": ""
-    }, 
-    {
       "dept": "MUS", 
-      "desc": "", 
-      "edges_from": [
-        46
-      ], 
+      "description": "Performance of representative chamber music literature, instrumental and/or vocal, through coached rehearsal and seminar studies. Course may be repeated for credit since the literature studied varies from quarter to quarter. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 124, 
+      "id": 114, 
       "label": "MUS 230", 
       "title": "Chamber Music Performance (4)"
     }, 
     {
       "dept": "CLRE", 
-      "desc": "", 
-      "edges_from": [
-        126
-      ], 
+      "description": "This course covers the key elements of scientific communication skills that are designed to enhance the clinical research\u2019s ability to be successful. Topics include secrets of making good oral presentations and engaging the audience, how to write and prepare abstracts, basics of grant writing and submission, and how grants are reviewed. Course includes mock grant study section. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 125, 
+      "id": 115, 
       "label": "CLRE 259", 
       "title": "Scientific Communication Skills (2)"
     }, 
     {
-      "dept": "ADMITTED_MAS_CLINICAL_RESEARCH_PROGRAM", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        125, 
-        127
-      ], 
-      "id": 126, 
-      "label": "ADMITTED_MAS_CLINICAL_RESEARCH_PROGRAM", 
-      "title": ""
-    }, 
-    {
       "dept": "CLRE", 
-      "desc": "", 
-      "edges_from": [
-        126
-      ], 
+      "description": "Students participate in a series of seminars on professional development topics that will focus on skills and knowledge to enhance the ability of clinical researchers to be successful. Seminar topics may include research management, team building and collaboration, leadership skills, career development in the clinical research field, negotiation skills, research project management, and research budgeting/financial management. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 127, 
+      "id": 116, 
       "label": "CLRE 258", 
       "title": "Professional Development in Clinical Research (2)"
     }, 
     {
       "dept": "Linguistics/Heritage", 
-      "desc": "", 
-      "edges_from": [
-        52, 
-        46
-      ], 
+      "description": "For students who comprehend informal spoken Vietnamese but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and family life/festivals; dialect and language style differences; structure and history of Vietnamese. LIHL 114F, LIHL 114W, and LIHL 114P may be taken in any order. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 128, 
+      "id": 117, 
       "label": "Linguistics/Heritage Languages (LIHL) 114F", 
       "title": "Vietnamese for Vietnamese Speakers (4)"
     }, 
     {
       "dept": "VIS", 
-      "desc": "", 
+      "description": "Methodological investigation of and training in the practices of art museums, galleries, film and digital environments, public arts organizations, and the like. Instruction by museum and gallery curators and opportunities for participation in ongoing programs at local art institutions.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 129, 
+      "id": 118, 
       "label": "VIS 281", 
       "title": "Curatorial Practice (4)"
     }, 
     {
       "dept": "VIS", 
-      "desc": "", 
+      "description": "Practice in writing about art (both one\u2019s own and others) accompanied by analysis of selected contemporary critical writings.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 130, 
+      "id": 119, 
       "label": "VIS 280", 
       "title": "Workshop in Critical Writing (4)"
     }, 
     {
       "dept": "Linguistics/Heritage", 
-      "desc": "", 
-      "edges_from": [
-        52, 
-        46
-      ], 
+      "description": "For students who comprehend informal spoken Vietnamese but wish to improve their communicative and sociocultural competence and their analytic understanding. Language functions for oral communication, reading, writing, and media/arts; dialect and language style differences; structure and history of Vietnamese. LIHL 114F, LIHL 114W, and LIHL 114P may be taken in any order. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 131, 
+      "id": 120, 
       "label": "Linguistics/Heritage Languages (LIHL) 114W", 
       "title": "Vietnamese for Vietnamese Speakers (4)"
     }, 
     {
       "dept": "ECE", 
-      "desc": "", 
-      "edges_from": [
-        18
-      ], 
+      "description": "Fresnel and Fraunhofer diffraction theory. Optical resonators, interferometry. Gaussian beam propagation and transformation. Laser oscillation and amplification, Q-switching and mode locking of lasers, some specific laser systems. (Recommended prerequisites: ECE 107 and ECE 182 or equivalent, introductory quantum mechanics or ECE 183.) ", 
+      "edges_from": [], 
       "edges_to": [
-        134
+        123
       ], 
-      "id": 132, 
+      "id": 121, 
       "label": "ECE 240A", 
       "title": "Lasers and Optics (4)"
     }, 
     {
       "dept": "ECE", 
-      "desc": "", 
+      "description": "Propagation of waves and rays in anisotropic media. Electro-optical switching and modulation. Acousto-optical deflection and modulation. Detection theory. Heterodyne detection, incoherent and coherent detection. (Recommended prerequisites: ECE 181, ECE 183 or equivalent.) ", 
       "edges_from": [
-        18, 
-        134
+        123
       ], 
       "edges_to": [], 
-      "id": 133, 
+      "id": 122, 
       "label": "ECE 240C", 
       "title": "Optical Modulation and Detection (4)"
     }, 
     {
       "dept": "ECE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [
-        18, 
-        132
+        121
       ], 
       "edges_to": [
-        133
+        122
       ], 
-      "id": 134, 
+      "id": 123, 
       "label": "ECE 240B", 
       "title": ""
     }, 
     {
       "dept": "HIUS", 
-      "desc": "", 
+      "description": "134. Immigration and Ethnicity in Modern American Society (4)", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 135, 
+      "id": 124, 
       "label": "HIUS 180/ETHN", 
       "title": ""
     }, 
     {
       "dept": "BIMM", 
-      "desc": "", 
-      "edges_from": [
-        27
-      ], 
+      "description": "The BioClock Studio is an innovative course in which a team of undergraduate students, drawn from diverse disciplines, will work collaboratively to develop their scientific and communicative skills to produce creative educational materials that will enhance understanding of circadian biology. Students are expected to attend the annual Circadian Biology Symposium held each winter, to the extent course schedules allow, to conduct interviews with prominent scientists. BIMM 116 is not a prerequisite to enroll in BIMM 116B. May be taken for credit three times. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 136, 
+      "id": 125, 
       "label": "BIMM 116B", 
       "title": "BioClock Studio (4)"
     }, 
     {
       "dept": "BENG", 
-      "desc": "", 
-      "edges_from": [
-        46
-      ], 
+      "description": "Structural and functional aspects of transport and blood-tissue exchange in key organs during circulatory shock, bacterial toxemia, hypertension. Physical and ultrastructural techniques used to analyze small-vessel dynamics. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 137, 
+      "id": 126, 
       "label": "BENG 267", 
       "title": "Microcirculation in Health and Disease (4)"
     }, 
     {
       "dept": "TDDM", 
-      "desc": "", 
+      "description": "Practical and conceptual studies of approaches to dance making. Compositional projects enable students to create short works for solo, duet, and small group situations with options to explore interdisciplinary collaboration, specific sites, text, political and societal issues, and advanced partner work. ", 
       "edges_from": [
-        139, 
-        46
+        128
       ], 
       "edges_to": [], 
-      "id": 138, 
+      "id": 127, 
       "label": "TDDM 100", 
       "title": "Dance Making 1 (4)"
     }, 
     {
       "dept": "TDDM", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        138, 
-        140
+        129, 
+        127
       ], 
-      "id": 139, 
+      "id": 128, 
       "label": "TDDM 1", 
       "title": ""
     }, 
     {
       "dept": "TDDM", 
-      "desc": "", 
+      "description": "The study of compositional, ensemble, collaborative, and improvisational approaches to dance making. Structures, scores, tasks, imagination, timing, spontaneity, partnering skills, composing in the moment, shared authorship, and experimentation facilitate the development of movement vocabulary. ", 
       "edges_from": [
-        139, 
-        46
+        128
       ], 
       "edges_to": [], 
-      "id": 140, 
+      "id": 129, 
       "label": "TDDM 101", 
       "title": "Dance Making 2 (4)"
     }, 
     {
       "dept": "NANO", 
-      "desc": "", 
+      "description": "Introduction to NanoEngineering; nanoscale fabrication: nanolithography and self-assembly; characterization tools; nanomaterials and nanostructures: nanotubes, nanowires, nanoparticles, and nanocomposites; nanoscale and molecular electronics; nanotechnology in magnetic systems; nanotechnology in integrative systems; nanoscale optoelectronics; nanobiotechnology: biomimetic systems, nanomotors, nanofluidics, and nanomedicine. Priority enrollment given to NanoEngineering majors. ", 
       "edges_from": [
-        32, 
-        142, 
-        143, 
-        144, 
-        145, 
-        146, 
-        27
+        131, 
+        132, 
+        133, 
+        134, 
+        135, 
+        28
       ], 
       "edges_to": [], 
-      "id": 141, 
+      "id": 130, 
       "label": "NANO 101", 
       "title": "Introduction to NanoEngineering (4)"
     }, 
     {
       "dept": "CENG", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        141
+        130
       ], 
-      "id": 142, 
+      "id": 131, 
       "label": "CENG 15", 
       "title": ""
     }, 
     {
       "dept": "MATH", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        141
+        130
       ], 
-      "id": 143, 
+      "id": 132, 
       "label": "MATH 20C", 
       "title": ""
     }, 
     {
       "dept": "CHEM", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        141
+        130
       ], 
-      "id": 144, 
+      "id": 133, 
       "label": "CHEM 6B", 
       "title": ""
     }, 
     {
       "dept": "MAE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        141
+        130
       ], 
-      "id": 145, 
+      "id": 134, 
       "label": "MAE 8", 
       "title": ""
     }, 
     {
       "dept": "NANO", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        141
+        130
       ], 
-      "id": 146, 
+      "id": 135, 
       "label": "NANO 15", 
       "title": ""
     }, 
     {
       "dept": "LTCS", 
-      "desc": "", 
+      "description": "The course will explore the relation among cultural production, institutions, history, and ideology during selected historical periods. In considering different kinds of texts, relations of power and knowledge at different historical moments will be discussed. Repeatable for credit when topics vary.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 147, 
+      "id": 136, 
       "label": "LTCS 120", 
       "title": "Historical Perspectives on Culture (4)"
     }, 
     {
       "dept": "LTCS", 
-      "desc": "", 
+      "description": "Perspectives on Immigration and Citizenship (4)", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 148, 
+      "id": 137, 
       "label": "LTCS 125", 
       "title": "Cultural"
     }, 
     {
       "dept": "ECON", 
-      "desc": "", 
+      "description": "Examination of recent econometric research; development of own research by students and faculty. Course may be repeated an unlimited number of times. (S/U grades only.)", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 149, 
+      "id": 138, 
       "label": "ECON 222A-B-C", 
       "title": "Workshop in Econometrics (4-4-4)"
     }, 
     {
       "dept": "ANSC", 
-      "desc": "", 
-      "edges_from": [
-        52, 
-        46
-      ], 
+      "description": "How are gender and sexuality shaped by cultural ideologies, social institutions, and social change? We explore their connections to such dimensions of society as kinship and family, the state, religion, and popular culture. We also examine alternative genders/sexualities cross-culturally. Students may not receive credit for ANSC 125GS and ANSC 125. Program or materials fees may apply. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 150, 
+      "id": 139, 
       "label": "ANSC 125GS", 
       "title": "Gender, Sexuality, and Society (4)"
     }, 
     {
       "dept": "HIEU", 
-      "desc": "", 
+      "description": "Students will exercise advanced German language skills to read and discuss materials in HIEU 154. Must be enrolled in HIEU 154.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 151, 
+      "id": 140, 
       "label": "HIEU 154XL", 
       "title": "HIEU 154 Foreign Language Section (4)"
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "Modern advances in design and analysis of algorithms. Exact syllabus varies. Topics include approximation, randomized algorithms, probabilistic analysis, heuristics, online algorithms, competitive analysis, models of memory hierarchy, parallel algorithms, number-theoretic algorithms, cryptanalysis, computational geometry, computational biology, network algorithms, VLSI CAD algorithms. ", 
       "edges_from": [
-        153
+        142
       ], 
       "edges_to": [], 
-      "id": 152, 
+      "id": 141, 
       "label": "CSE 203A", 
       "title": "Advanced Algorithms (4)"
     }, 
     {
       "dept": "CSE", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        152
+        141
       ], 
-      "id": 153, 
+      "id": 142, 
       "label": "CSE 202", 
       "title": ""
     }, 
     {
       "dept": "LTWR", 
-      "desc": "", 
+      "description": "Study and practice of poetry as artistic and communal expression. Techniques of composition (traditional forms, avant garde techniques, dramatic monologue, performance poetry, and new genre) studied through written and spoken examples of poetry. Students are required to attend at least three New Writing Series readings during the quarter. ", 
       "edges_from": [
-        160, 
-        161, 
-        162, 
-        163, 
-        164, 
-        165, 
-        166, 
-        50, 
-        51, 
-        155, 
-        156, 
-        157, 
-        158, 
-        159
+        44, 
+        45, 
+        144, 
+        145, 
+        146, 
+        147, 
+        148, 
+        149, 
+        150, 
+        151, 
+        152, 
+        153, 
+        154, 
+        155
       ], 
       "edges_to": [], 
-      "id": 154, 
+      "id": 143, 
       "label": "LTWR 8B", 
       "title": "Writing Poetry (4)"
     }, 
     {
       "dept": "MCWP", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 155, 
+      "id": 144, 
       "label": "MCWP 40", 
       "title": ""
     }, 
     {
       "dept": "MCWP", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 156, 
+      "id": 145, 
       "label": "MCWP 50", 
       "title": ""
     }, 
     {
       "dept": "WARR", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 157, 
+      "id": 146, 
       "label": "WARR 11B", 
       "title": ""
     }, 
     {
       "dept": "WCWP", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 158, 
+      "id": 147, 
       "label": "WCWP 10A", 
       "title": ""
     }, 
     {
       "dept": "WARR", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 159, 
+      "id": 148, 
       "label": "WARR 11A", 
       "title": ""
     }, 
     {
       "dept": "WCWP", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 160, 
+      "id": 149, 
       "label": "WCWP 10B", 
       "title": ""
     }, 
     {
       "dept": "DOC", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 161, 
+      "id": 150, 
       "label": "DOC 3", 
       "title": ""
     }, 
     {
       "dept": "DOC", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 162, 
+      "id": 151, 
       "label": "DOC 2", 
       "title": ""
     }, 
     {
       "dept": "HUM", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 163, 
+      "id": 152, 
       "label": "HUM 1", 
       "title": ""
     }, 
     {
       "dept": "HUM", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 164, 
+      "id": 153, 
       "label": "HUM 2", 
       "title": ""
     }, 
     {
       "dept": "MMW", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 165, 
+      "id": 154, 
       "label": "MMW 12", 
       "title": ""
     }, 
     {
       "dept": "MMW", 
-      "desc": "", 
+      "description": "", 
       "edges_from": [], 
       "edges_to": [
-        168, 
-        154, 
-        167
+        156, 
+        157, 
+        143
       ], 
-      "id": 166, 
+      "id": 155, 
       "label": "MMW 13", 
       "title": ""
     }, 
     {
       "dept": "LTWR", 
-      "desc": "", 
+      "description": "Study of nonfictional prose in terms of genre and craft. Techniques of composition (journalism, essay, letters, reviews) will be studied through written examples of the genre. ", 
       "edges_from": [
-        160, 
-        161, 
-        162, 
-        163, 
-        164, 
-        165, 
-        166, 
-        50, 
-        51, 
-        155, 
-        156, 
-        157, 
-        158, 
-        159
+        44, 
+        45, 
+        144, 
+        145, 
+        146, 
+        147, 
+        148, 
+        149, 
+        150, 
+        151, 
+        152, 
+        153, 
+        154, 
+        155
       ], 
       "edges_to": [], 
-      "id": 167, 
+      "id": 156, 
       "label": "LTWR 8C", 
       "title": "Writing Nonfiction (4)"
     }, 
     {
       "dept": "LTWR", 
-      "desc": "", 
+      "description": "Study of fiction in both theory and practice. Narrative technique studied in terms of subjectivity and atmosphere, description, dialogue, and the editing process will be introduced through readings from the history of the novel and short story. Students are required to attend at least three New Writing Series readings during the quarter. ", 
       "edges_from": [
-        160, 
-        161, 
-        162, 
-        163, 
-        164, 
-        165, 
-        166, 
-        50, 
-        51, 
-        155, 
-        156, 
-        157, 
-        158, 
-        159
+        44, 
+        45, 
+        144, 
+        145, 
+        146, 
+        147, 
+        148, 
+        149, 
+        150, 
+        151, 
+        152, 
+        153, 
+        154, 
+        155
       ], 
       "edges_to": [], 
-      "id": 168, 
+      "id": 157, 
       "label": "LTWR 8A", 
       "title": "Writing Fiction (4)"
     }, 
     {
       "dept": "BIOM", 
-      "desc": "", 
-      "edges_from": [
-        46
-      ], 
+      "description": "A selection of short courses in the biomedical and pharmacological sciences offered by resident experts. Topics will vary annually. Each short course will last one to two weeks, meeting five hours a week. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 169, 
+      "id": 158, 
       "label": "BIOM 231", 
       "title": "Contemporary Topics in Pharmacology (2)"
     }, 
     {
       "dept": "BIOM", 
-      "desc": "", 
-      "edges_from": [
-        18
-      ], 
+      "description": "Strategies such as positron emission tomography, magnetic resonance imaging, and ultrasound for nondestructively imaging molecular and cell biological events inside living animals and eventually human patients. Emphasis on detecting angiogenesis, apoptosis, and expression of tumor-specific genes. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 170, 
+      "id": 159, 
       "label": "BIOM 232", 
       "title": "In vivo Cellular and Molecular Imaging (1)"
     }, 
     {
       "dept": "BIOM", 
-      "desc": "", 
-      "edges_from": [
-        18
-      ], 
+      "description": "This class is taught by SBMRI program faculty, whose laboratories are actively involved in determining the three-dimensional structure of complex biological entities. The course covers basic principles of crystallization, cryo-electron microscopy, and NMR, and modern techniques for Ab-initio-structural analysis. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 171, 
+      "id": 160, 
       "label": "BIOM 233", 
       "title": "Structural Biology in Cell Signaling and Drug Discovery (2)"
     }, 
     {
       "dept": "BIOM", 
-      "desc": "", 
-      "edges_from": [
-        176, 
-        173, 
-        174, 
-        175
-      ], 
+      "description": "The course is designed to introduce or reintroduce histology and histopathology of the various organ systems to those who need to analyze mouse tissues as an essential part of their research. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 172, 
+      "id": 161, 
       "label": "BIOM 234", 
       "title": "Practical Histopathology and Mouse Models of Human Diseases (2)"
     }, 
     {
-      "dept": "BICD", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        172
-      ], 
-      "id": 173, 
-      "label": "BICD 1", 
-      "title": ""
-    }, 
-    {
-      "dept": "BICD", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        172
-      ], 
-      "id": 174, 
-      "label": "BICD 2", 
-      "title": ""
-    }, 
-    {
-      "dept": "BICD", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        172
-      ], 
-      "id": 175, 
-      "label": "BICD 3", 
-      "title": ""
-    }, 
-    {
-      "dept": "BICD", 
-      "desc": "", 
-      "edges_from": [], 
-      "edges_to": [
-        172
-      ], 
-      "id": 176, 
-      "label": "BICD 4", 
-      "title": ""
-    }, 
-    {
       "dept": "BIOM", 
-      "desc": "", 
-      "edges_from": [
-        46
-      ], 
+      "description": "This course provides an understanding of the evolving area of human genomics and correlation between an individual\u2019s or subpopulation\u2019s genetic makeup and their response to drugs. The information provides the student the basis for select prescribing and/or targeting drug development to improve drug therapy outcomes and reduce adverse drug responses. ", 
+      "edges_from": [], 
       "edges_to": [], 
-      "id": 177, 
+      "id": 162, 
       "label": "BIOM 235", 
       "title": "Pharmacogenomics (3)"
     }, 
     {
       "dept": "HIGR", 
-      "desc": "", 
+      "description": "267A-B. Research Seminar in United States History (4-4)", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 178, 
+      "id": 163, 
       "label": "HIGR", 
       "title": ""
     }, 
     {
       "dept": "ENVR", 
-      "desc": "", 
+      "description": "The Freshman Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman Seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering freshmen.", 
       "edges_from": [], 
       "edges_to": [], 
-      "id": 179, 
+      "id": 164, 
       "label": "ENVR 87", 
       "title": "Environmental Studies Freshman Seminar (1)"
     }
