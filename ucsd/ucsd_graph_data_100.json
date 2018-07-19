@@ -37,32 +37,28 @@
       "to": 0
     }, 
     {
-      "from": 0, 
-      "to": 10
+      "from": 10, 
+      "to": 0
     }, 
     {
-      "from": 11, 
-      "to": 10
+      "from": 0, 
+      "to": 11
     }, 
     {
       "from": 12, 
-      "to": 10
+      "to": 11
     }, 
     {
       "from": 13, 
-      "to": 10
+      "to": 11
     }, 
     {
       "from": 14, 
-      "to": 10
+      "to": 11
     }, 
     {
       "from": 15, 
-      "to": 10
-    }, 
-    {
-      "from": 2, 
-      "to": 10
+      "to": 11
     }, 
     {
       "from": 16, 
@@ -73,83 +69,55 @@
       "to": 11
     }, 
     {
-      "from": 26, 
-      "to": 25
+      "from": 2, 
+      "to": 11
+    }, 
+    {
+      "from": 18, 
+      "to": 13
+    }, 
+    {
+      "from": 19, 
+      "to": 13
+    }, 
+    {
+      "from": 20, 
+      "to": 13
+    }, 
+    {
+      "from": 18, 
+      "to": 26
     }, 
     {
       "from": 27, 
-      "to": 25
-    }, 
-    {
-      "from": 28, 
-      "to": 25
-    }, 
-    {
-      "from": 29, 
-      "to": 25
+      "to": 26
     }, 
     {
       "from": 30, 
-      "to": 25
+      "to": 29
     }, 
     {
       "from": 31, 
-      "to": 25
+      "to": 29
     }, 
     {
       "from": 32, 
-      "to": 25
+      "to": 29
     }, 
     {
       "from": 33, 
-      "to": 25
+      "to": 29
     }, 
     {
       "from": 34, 
-      "to": 25
+      "to": 29
     }, 
     {
       "from": 35, 
-      "to": 25
+      "to": 29
     }, 
     {
       "from": 36, 
-      "to": 25
-    }, 
-    {
-      "from": 37, 
-      "to": 25
-    }, 
-    {
-      "from": 38, 
-      "to": 25
-    }, 
-    {
-      "from": 26, 
-      "to": 29
-    }, 
-    {
-      "from": 27, 
-      "to": 29
-    }, 
-    {
-      "from": 28, 
-      "to": 29
-    }, 
-    {
-      "from": 30, 
-      "to": 29
-    }, 
-    {
-      "from": 33, 
-      "to": 29
-    }, 
-    {
-      "from": 34, 
-      "to": 29
-    }, 
-    {
-      "from": 35, 
       "to": 29
     }, 
     {
@@ -161,191 +129,311 @@
       "to": 29
     }, 
     {
-      "from": 26, 
-      "to": 36
-    }, 
-    {
-      "from": 27, 
-      "to": 36
-    }, 
-    {
-      "from": 28, 
-      "to": 36
-    }, 
-    {
-      "from": 30, 
-      "to": 36
-    }, 
-    {
-      "from": 33, 
-      "to": 36
-    }, 
-    {
-      "from": 34, 
-      "to": 36
-    }, 
-    {
-      "from": 35, 
-      "to": 36
-    }, 
-    {
-      "from": 37, 
-      "to": 36
-    }, 
-    {
-      "from": 38, 
-      "to": 36
-    }, 
-    {
-      "from": 26, 
-      "to": 31
-    }, 
-    {
-      "from": 27, 
-      "to": 31
-    }, 
-    {
-      "from": 28, 
-      "to": 31
-    }, 
-    {
-      "from": 30, 
-      "to": 31
-    }, 
-    {
-      "from": 33, 
-      "to": 31
-    }, 
-    {
-      "from": 34, 
-      "to": 31
-    }, 
-    {
-      "from": 35, 
-      "to": 31
-    }, 
-    {
-      "from": 37, 
-      "to": 31
-    }, 
-    {
-      "from": 38, 
-      "to": 31
-    }, 
-    {
-      "from": 26, 
-      "to": 32
-    }, 
-    {
-      "from": 27, 
-      "to": 32
-    }, 
-    {
-      "from": 28, 
-      "to": 32
-    }, 
-    {
-      "from": 30, 
-      "to": 32
-    }, 
-    {
-      "from": 33, 
-      "to": 32
-    }, 
-    {
-      "from": 34, 
-      "to": 32
-    }, 
-    {
-      "from": 35, 
-      "to": 32
-    }, 
-    {
-      "from": 37, 
-      "to": 32
-    }, 
-    {
-      "from": 38, 
-      "to": 32
+      "from": 39, 
+      "to": 29
     }, 
     {
       "from": 40, 
-      "to": 39
+      "to": 29
     }, 
     {
       "from": 41, 
-      "to": 39
+      "to": 29
+    }, 
+    {
+      "from": 42, 
+      "to": 29
+    }, 
+    {
+      "from": 30, 
+      "to": 33
+    }, 
+    {
+      "from": 31, 
+      "to": 33
+    }, 
+    {
+      "from": 32, 
+      "to": 33
+    }, 
+    {
+      "from": 34, 
+      "to": 33
+    }, 
+    {
+      "from": 37, 
+      "to": 33
+    }, 
+    {
+      "from": 38, 
+      "to": 33
+    }, 
+    {
+      "from": 39, 
+      "to": 33
+    }, 
+    {
+      "from": 41, 
+      "to": 33
+    }, 
+    {
+      "from": 42, 
+      "to": 33
+    }, 
+    {
+      "from": 30, 
+      "to": 40
+    }, 
+    {
+      "from": 31, 
+      "to": 40
+    }, 
+    {
+      "from": 32, 
+      "to": 40
+    }, 
+    {
+      "from": 34, 
+      "to": 40
+    }, 
+    {
+      "from": 37, 
+      "to": 40
+    }, 
+    {
+      "from": 38, 
+      "to": 40
+    }, 
+    {
+      "from": 39, 
+      "to": 40
     }, 
     {
       "from": 41, 
       "to": 40
     }, 
     {
-      "from": 43, 
-      "to": 42
+      "from": 42, 
+      "to": 40
+    }, 
+    {
+      "from": 30, 
+      "to": 35
+    }, 
+    {
+      "from": 31, 
+      "to": 35
+    }, 
+    {
+      "from": 32, 
+      "to": 35
+    }, 
+    {
+      "from": 34, 
+      "to": 35
+    }, 
+    {
+      "from": 37, 
+      "to": 35
+    }, 
+    {
+      "from": 38, 
+      "to": 35
+    }, 
+    {
+      "from": 39, 
+      "to": 35
+    }, 
+    {
+      "from": 41, 
+      "to": 35
+    }, 
+    {
+      "from": 42, 
+      "to": 35
+    }, 
+    {
+      "from": 30, 
+      "to": 36
+    }, 
+    {
+      "from": 31, 
+      "to": 36
+    }, 
+    {
+      "from": 32, 
+      "to": 36
+    }, 
+    {
+      "from": 34, 
+      "to": 36
+    }, 
+    {
+      "from": 37, 
+      "to": 36
+    }, 
+    {
+      "from": 38, 
+      "to": 36
+    }, 
+    {
+      "from": 39, 
+      "to": 36
+    }, 
+    {
+      "from": 41, 
+      "to": 36
+    }, 
+    {
+      "from": 42, 
+      "to": 36
     }, 
     {
       "from": 44, 
-      "to": 42
+      "to": 43
     }, 
     {
       "from": 45, 
-      "to": 42
+      "to": 43
     }, 
     {
-      "from": 43, 
-      "to": 46
-    }, 
-    {
-      "from": 44, 
-      "to": 46
+      "from": 46, 
+      "to": 43
     }, 
     {
       "from": 45, 
-      "to": 46
+      "to": 44
     }, 
     {
-      "from": 43, 
-      "to": 48
+      "from": 46, 
+      "to": 44
     }, 
     {
-      "from": 44, 
-      "to": 48
+      "from": 48, 
+      "to": 47
     }, 
     {
-      "from": 45, 
-      "to": 48
+      "from": 49, 
+      "to": 47
     }, 
     {
-      "from": 55, 
+      "from": 50, 
+      "to": 47
+    }, 
+    {
+      "from": 51, 
+      "to": 47
+    }, 
+    {
+      "from": 52, 
+      "to": 47
+    }, 
+    {
+      "from": 48, 
+      "to": 53
+    }, 
+    {
+      "from": 49, 
+      "to": 53
+    }, 
+    {
+      "from": 50, 
+      "to": 53
+    }, 
+    {
+      "from": 51, 
+      "to": 53
+    }, 
+    {
+      "from": 52, 
+      "to": 53
+    }, 
+    {
+      "from": 52, 
       "to": 54
     }, 
     {
-      "from": 54, 
+      "from": 46, 
+      "to": 54
+    }, 
+    {
+      "from": 48, 
+      "to": 55
+    }, 
+    {
+      "from": 49, 
+      "to": 55
+    }, 
+    {
+      "from": 50, 
+      "to": 55
+    }, 
+    {
+      "from": 51, 
+      "to": 55
+    }, 
+    {
+      "from": 52, 
+      "to": 55
+    }, 
+    {
+      "from": 52, 
       "to": 56
     }, 
     {
-      "from": 57, 
+      "from": 27, 
       "to": 56
     }, 
     {
-      "from": 60, 
-      "to": 60
+      "from": 46, 
+      "to": 56
     }, 
     {
-      "from": 61, 
+      "from": 27, 
+      "to": 57
+    }, 
+    {
+      "from": 46, 
+      "to": 57
+    }, 
+    {
+      "from": 27, 
+      "to": 58
+    }, 
+    {
+      "from": 46, 
+      "to": 58
+    }, 
+    {
+      "from": 52, 
+      "to": 59
+    }, 
+    {
+      "from": 27, 
+      "to": 59
+    }, 
+    {
+      "from": 27, 
       "to": 60
     }, 
     {
       "from": 62, 
-      "to": 62
+      "to": 61
+    }, 
+    {
+      "from": 46, 
+      "to": 61
     }, 
     {
       "from": 63, 
-      "to": 62
+      "to": 61
     }, 
     {
-      "from": 64, 
+      "from": 46, 
+      "to": 64
+    }, 
+    {
+      "from": 61, 
       "to": 64
     }, 
     {
@@ -353,28 +441,48 @@
       "to": 64
     }, 
     {
-      "from": 66, 
-      "to": 66
-    }, 
-    {
-      "from": 67, 
-      "to": 66
-    }, 
-    {
-      "from": 69, 
-      "to": 68
+      "from": 62, 
+      "to": 64
     }, 
     {
       "from": 68, 
       "to": 68
     }, 
     {
-      "from": 72, 
-      "to": 71
+      "from": 52, 
+      "to": 68
+    }, 
+    {
+      "from": 69, 
+      "to": 68
+    }, 
+    {
+      "from": 70, 
+      "to": 70
+    }, 
+    {
+      "from": 52, 
+      "to": 70
     }, 
     {
       "from": 71, 
-      "to": 71
+      "to": 70
+    }, 
+    {
+      "from": 72, 
+      "to": 72
+    }, 
+    {
+      "from": 73, 
+      "to": 72
+    }, 
+    {
+      "from": 52, 
+      "to": 72
+    }, 
+    {
+      "from": 52, 
+      "to": 74
     }, 
     {
       "from": 74, 
@@ -385,950 +493,2807 @@
       "to": 74
     }, 
     {
-      "from": 81, 
-      "to": 80
+      "from": 77, 
+      "to": 76
     }, 
     {
-      "from": 88, 
-      "to": 87
+      "from": 76, 
+      "to": 76
+    }, 
+    {
+      "from": 52, 
+      "to": 76
+    }, 
+    {
+      "from": 80, 
+      "to": 79
+    }, 
+    {
+      "from": 52, 
+      "to": 79
+    }, 
+    {
+      "from": 79, 
+      "to": 79
+    }, 
+    {
+      "from": 52, 
+      "to": 81
+    }, 
+    {
+      "from": 46, 
+      "to": 81
+    }, 
+    {
+      "from": 52, 
+      "to": 82
+    }, 
+    {
+      "from": 82, 
+      "to": 82
+    }, 
+    {
+      "from": 83, 
+      "to": 82
+    }, 
+    {
+      "from": 52, 
+      "to": 85
+    }, 
+    {
+      "from": 46, 
+      "to": 85
+    }, 
+    {
+      "from": 52, 
+      "to": 86
+    }, 
+    {
+      "from": 46, 
+      "to": 86
+    }, 
+    {
+      "from": 46, 
+      "to": 88
     }, 
     {
       "from": 89, 
-      "to": 87
+      "to": 88
     }, 
     {
-      "from": 91, 
-      "to": 90
+      "from": 18, 
+      "to": 89
+    }, 
+    {
+      "from": 46, 
+      "to": 89
+    }, 
+    {
+      "from": 27, 
+      "to": 91
+    }, 
+    {
+      "from": 46, 
+      "to": 91
     }, 
     {
       "from": 92, 
-      "to": 90
+      "to": 91
     }, 
     {
-      "from": 93, 
-      "to": 90
+      "from": 52, 
+      "to": 93
     }, 
     {
-      "from": 94, 
-      "to": 90
-    }, 
-    {
-      "from": 95, 
-      "to": 90
-    }, 
-    {
-      "from": 58, 
-      "to": 90
-    }, 
-    {
-      "from": 59, 
-      "to": 90
-    }, 
-    {
-      "from": 96, 
-      "to": 90
+      "from": 97, 
+      "to": 96
     }, 
     {
       "from": 98, 
-      "to": 97
+      "to": 96
     }, 
     {
-      "from": 99, 
-      "to": 97
+      "from": 100, 
+      "to": 99
     }, 
     {
-      "from": 98, 
-      "to": 100
+      "from": 101, 
+      "to": 99
     }, 
     {
-      "from": 99, 
-      "to": 100
+      "from": 102, 
+      "to": 99
     }, 
     {
-      "from": 106, 
-      "to": 105
+      "from": 103, 
+      "to": 99
+    }, 
+    {
+      "from": 104, 
+      "to": 99
+    }, 
+    {
+      "from": 27, 
+      "to": 99
+    }, 
+    {
+      "from": 66, 
+      "to": 99
+    }, 
+    {
+      "from": 67, 
+      "to": 99
+    }, 
+    {
+      "from": 105, 
+      "to": 99
+    }, 
+    {
+      "from": 52, 
+      "to": 99
+    }, 
+    {
+      "from": 107, 
+      "to": 106
     }, 
     {
       "from": 108, 
-      "to": 107
+      "to": 106
     }, 
     {
-      "from": 111, 
+      "from": 46, 
+      "to": 106
+    }, 
+    {
+      "from": 107, 
+      "to": 109
+    }, 
+    {
+      "from": 108, 
+      "to": 109
+    }, 
+    {
+      "from": 46, 
+      "to": 109
+    }, 
+    {
+      "from": 18, 
       "to": 110
+    }, 
+    {
+      "from": 46, 
+      "to": 110
+    }, 
+    {
+      "from": 18, 
+      "to": 113
+    }, 
+    {
+      "from": 46, 
+      "to": 113
+    }, 
+    {
+      "from": 115, 
+      "to": 114
+    }, 
+    {
+      "from": 117, 
+      "to": 116
+    }, 
+    {
+      "from": 120, 
+      "to": 119
     }, 
     {
       "from": 123, 
       "to": 122
     }, 
     {
-      "from": 121, 
-      "to": 123
+      "from": 46, 
+      "to": 124
     }, 
     {
-      "from": 128, 
+      "from": 126, 
+      "to": 125
+    }, 
+    {
+      "from": 126, 
       "to": 127
     }, 
     {
-      "from": 128, 
-      "to": 129
+      "from": 52, 
+      "to": 128
     }, 
     {
-      "from": 131, 
-      "to": 130
+      "from": 46, 
+      "to": 128
     }, 
     {
-      "from": 132, 
-      "to": 130
+      "from": 52, 
+      "to": 131
     }, 
     {
-      "from": 133, 
-      "to": 130
+      "from": 46, 
+      "to": 131
+    }, 
+    {
+      "from": 18, 
+      "to": 132
+    }, 
+    {
+      "from": 18, 
+      "to": 133
     }, 
     {
       "from": 134, 
-      "to": 130
+      "to": 133
     }, 
     {
-      "from": 28, 
-      "to": 130
+      "from": 18, 
+      "to": 134
     }, 
     {
-      "from": 135, 
-      "to": 130
+      "from": 132, 
+      "to": 134
+    }, 
+    {
+      "from": 27, 
+      "to": 136
+    }, 
+    {
+      "from": 46, 
+      "to": 137
+    }, 
+    {
+      "from": 46, 
+      "to": 138
+    }, 
+    {
+      "from": 139, 
+      "to": 138
+    }, 
+    {
+      "from": 46, 
+      "to": 140
+    }, 
+    {
+      "from": 139, 
+      "to": 140
     }, 
     {
       "from": 142, 
       "to": 141
     }, 
     {
-      "from": 144, 
-      "to": 143
-    }, 
-    {
-      "from": 145, 
-      "to": 143
-    }, 
-    {
-      "from": 146, 
-      "to": 143
-    }, 
-    {
-      "from": 147, 
-      "to": 143
-    }, 
-    {
-      "from": 148, 
-      "to": 143
-    }, 
-    {
-      "from": 149, 
-      "to": 143
-    }, 
-    {
-      "from": 150, 
-      "to": 143
-    }, 
-    {
-      "from": 151, 
-      "to": 143
-    }, 
-    {
-      "from": 152, 
-      "to": 143
-    }, 
-    {
-      "from": 153, 
-      "to": 143
-    }, 
-    {
-      "from": 154, 
-      "to": 143
-    }, 
-    {
-      "from": 155, 
-      "to": 143
-    }, 
-    {
-      "from": 44, 
-      "to": 143
-    }, 
-    {
-      "from": 45, 
-      "to": 143
+      "from": 143, 
+      "to": 141
     }, 
     {
       "from": 144, 
-      "to": 156
+      "to": 141
+    }, 
+    {
+      "from": 27, 
+      "to": 141
     }, 
     {
       "from": 145, 
-      "to": 156
+      "to": 141
+    }, 
+    {
+      "from": 32, 
+      "to": 141
     }, 
     {
       "from": 146, 
-      "to": 156
+      "to": 141
     }, 
     {
-      "from": 147, 
-      "to": 156
+      "from": 52, 
+      "to": 150
     }, 
     {
-      "from": 148, 
-      "to": 156
-    }, 
-    {
-      "from": 149, 
-      "to": 156
-    }, 
-    {
-      "from": 150, 
-      "to": 156
-    }, 
-    {
-      "from": 151, 
-      "to": 156
-    }, 
-    {
-      "from": 152, 
-      "to": 156
+      "from": 46, 
+      "to": 150
     }, 
     {
       "from": 153, 
-      "to": 156
-    }, 
-    {
-      "from": 154, 
-      "to": 156
+      "to": 152
     }, 
     {
       "from": 155, 
-      "to": 156
+      "to": 154
     }, 
     {
-      "from": 44, 
-      "to": 156
+      "from": 156, 
+      "to": 154
     }, 
     {
-      "from": 45, 
-      "to": 156
+      "from": 157, 
+      "to": 154
     }, 
     {
-      "from": 144, 
-      "to": 157
+      "from": 158, 
+      "to": 154
     }, 
     {
-      "from": 145, 
-      "to": 157
+      "from": 159, 
+      "to": 154
     }, 
     {
-      "from": 146, 
-      "to": 157
+      "from": 160, 
+      "to": 154
     }, 
     {
-      "from": 147, 
-      "to": 157
+      "from": 161, 
+      "to": 154
     }, 
     {
-      "from": 148, 
-      "to": 157
+      "from": 162, 
+      "to": 154
     }, 
     {
-      "from": 149, 
-      "to": 157
+      "from": 163, 
+      "to": 154
     }, 
     {
-      "from": 150, 
-      "to": 157
+      "from": 164, 
+      "to": 154
     }, 
     {
-      "from": 151, 
-      "to": 157
+      "from": 165, 
+      "to": 154
     }, 
     {
-      "from": 152, 
-      "to": 157
+      "from": 166, 
+      "to": 154
     }, 
     {
-      "from": 153, 
-      "to": 157
+      "from": 50, 
+      "to": 154
     }, 
     {
-      "from": 154, 
-      "to": 157
+      "from": 51, 
+      "to": 154
     }, 
     {
       "from": 155, 
-      "to": 157
+      "to": 167
     }, 
     {
-      "from": 44, 
-      "to": 157
+      "from": 156, 
+      "to": 167
     }, 
     {
-      "from": 45, 
-      "to": 157
+      "from": 157, 
+      "to": 167
+    }, 
+    {
+      "from": 158, 
+      "to": 167
+    }, 
+    {
+      "from": 159, 
+      "to": 167
+    }, 
+    {
+      "from": 160, 
+      "to": 167
+    }, 
+    {
+      "from": 161, 
+      "to": 167
+    }, 
+    {
+      "from": 162, 
+      "to": 167
+    }, 
+    {
+      "from": 163, 
+      "to": 167
+    }, 
+    {
+      "from": 164, 
+      "to": 167
+    }, 
+    {
+      "from": 165, 
+      "to": 167
+    }, 
+    {
+      "from": 166, 
+      "to": 167
+    }, 
+    {
+      "from": 50, 
+      "to": 167
+    }, 
+    {
+      "from": 51, 
+      "to": 167
+    }, 
+    {
+      "from": 155, 
+      "to": 168
+    }, 
+    {
+      "from": 156, 
+      "to": 168
+    }, 
+    {
+      "from": 157, 
+      "to": 168
+    }, 
+    {
+      "from": 158, 
+      "to": 168
+    }, 
+    {
+      "from": 159, 
+      "to": 168
+    }, 
+    {
+      "from": 160, 
+      "to": 168
+    }, 
+    {
+      "from": 161, 
+      "to": 168
+    }, 
+    {
+      "from": 162, 
+      "to": 168
+    }, 
+    {
+      "from": 163, 
+      "to": 168
+    }, 
+    {
+      "from": 164, 
+      "to": 168
+    }, 
+    {
+      "from": 165, 
+      "to": 168
+    }, 
+    {
+      "from": 166, 
+      "to": 168
+    }, 
+    {
+      "from": 50, 
+      "to": 168
+    }, 
+    {
+      "from": 51, 
+      "to": 168
+    }, 
+    {
+      "from": 46, 
+      "to": 169
+    }, 
+    {
+      "from": 18, 
+      "to": 170
+    }, 
+    {
+      "from": 18, 
+      "to": 171
+    }, 
+    {
+      "from": 173, 
+      "to": 172
+    }, 
+    {
+      "from": 174, 
+      "to": 172
+    }, 
+    {
+      "from": 175, 
+      "to": 172
+    }, 
+    {
+      "from": 176, 
+      "to": 172
+    }, 
+    {
+      "from": 46, 
+      "to": 177
     }
   ], 
   "nodes": [
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [
+        1, 
+        2, 
+        3, 
+        4, 
+        5, 
+        6, 
+        7, 
+        8, 
+        9, 
+        10
+      ], 
+      "edges_to": [
+        11
+      ], 
       "id": 0, 
-      "label": "CSE 105"
+      "label": "CSE 105", 
+      "title": "Theory of Computability (4)"
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 1, 
-      "label": "CSE 12"
+      "label": "CSE 12", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0, 
+        11
+      ], 
       "id": 2, 
-      "label": "CSE 21"
+      "label": "CSE 21", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 3, 
-      "label": "CSE 20"
+      "label": "CSE 20", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 4, 
-      "label": "MATH 184"
+      "label": "MATH 184", 
+      "title": ""
     }, 
     {
+      "dept": "SENIOR_STANDING", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 5, 
-      "label": "CSE 15L"
+      "label": "SENIOR_STANDING", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 6, 
-      "label": "MATH 100A"
+      "label": "CSE 15L", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 7, 
-      "label": "MATH 109"
+      "label": "MATH 100A", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 8, 
-      "label": "MATH 103A"
+      "label": "MATH 109", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 9, 
-      "label": "MATH 15A"
+      "label": "MATH 103A", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 10, 
-      "label": "CSE 107"
+      "label": "MATH 15A", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [
+        0, 
+        2, 
+        12, 
+        13, 
+        14, 
+        15, 
+        16, 
+        17
+      ], 
+      "edges_to": [], 
       "id": 11, 
-      "label": "CSE 101"
+      "label": "CSE 107", 
+      "title": "Introduction to Modern Cryptography (4)"
     }, 
     {
+      "dept": "OTHER_STUDENTS_ALLOWABLE_AS_SPACE_PERMITS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        11
+      ], 
       "id": 12, 
-      "label": "MATH 184A"
+      "label": "OTHER_STUDENTS_ALLOWABLE_AS_SPACE_PERMITS", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [
+        18, 
+        19, 
+        20
+      ], 
+      "edges_to": [
+        11
+      ], 
       "id": 13, 
-      "label": "MATH 15B"
+      "label": "CSE 101", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        11
+      ], 
       "id": 14, 
-      "label": "MATH 166"
+      "label": "MATH 184A", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        11
+      ], 
       "id": 15, 
-      "label": "MATH 154"
+      "label": "MATH 15B", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        11
+      ], 
       "id": 16, 
-      "label": "MATH 176"
+      "label": "MATH 166", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        11
+      ], 
       "id": 17, 
-      "label": "CSE 100"
+      "label": "MATH 154", 
+      "title": ""
     }, 
     {
+      "dept": "GRADUATE_STANDING", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        132, 
+        133, 
+        134, 
+        170, 
+        171, 
+        13, 
+        110, 
+        113, 
+        89, 
+        26
+      ], 
       "id": 18, 
-      "label": "CSE 103"
+      "label": "GRADUATE_STANDING", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        13
+      ], 
       "id": 19, 
-      "label": "GLBH 20"
+      "label": "MATH 176", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        13
+      ], 
       "id": 20, 
-      "label": "PHIL 33"
+      "label": "CSE 100", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 21, 
-      "label": "PHIL 32"
+      "label": "CSE 103", 
+      "title": "A Practical"
     }, 
     {
+      "dept": "GLBH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 22, 
-      "label": "PHIL 31"
+      "label": "GLBH 20", 
+      "title": "Introduction to Global Health (4)"
     }, 
     {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 23, 
-      "label": "HIEU 172/272"
+      "label": "PHIL 33", 
+      "title": "Philosophy between Reason and Despair (4)"
     }, 
     {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 24, 
-      "label": "PHIL 35"
+      "label": "PHIL 32", 
+      "title": "Philosophy and the Rise of Modern Science  (4)"
     }, 
     {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 25, 
-      "label": "PHYS 164"
+      "label": "PHIL 31", 
+      "title": "Introduction"
     }, 
     {
+      "dept": "HIEU", 
+      "desc": "", 
+      "edges_from": [
+        18, 
+        27
+      ], 
+      "edges_to": [], 
       "id": 26, 
-      "label": "PHYS 2A"
+      "label": "HIEU 172/272", 
+      "title": "Comparative European Fascism (4)"
     }, 
     {
+      "dept": "DEPARTMENT_APPROVAL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        91, 
+        136, 
+        141, 
+        99, 
+        56, 
+        57, 
+        26, 
+        59, 
+        60, 
+        58
+      ], 
       "id": 27, 
-      "label": "PHYS 2C"
+      "label": "DEPARTMENT_APPROVAL", 
+      "title": ""
     }, 
     {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 28, 
-      "label": "PHYS 2B"
+      "label": "PHIL 35", 
+      "title": "Philosophy in the Americas (4)"
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [
+        32, 
+        33, 
+        34, 
+        35, 
+        36, 
+        37, 
+        38, 
+        39, 
+        40, 
+        41, 
+        42, 
+        30, 
+        31
+      ], 
+      "edges_to": [], 
       "id": 29, 
-      "label": "PHYS 163"
+      "label": "PHYS 164", 
+      "title": "Observational Astrophysics Research Lab (4)"
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        40, 
+        33, 
+        35, 
+        36, 
+        29
+      ], 
       "id": 30, 
-      "label": "PHYS 2D"
+      "label": "PHYS 2A", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        40, 
+        33, 
+        35, 
+        36, 
+        29
+      ], 
       "id": 31, 
-      "label": "PHYS 161"
+      "label": "PHYS 2C", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        33, 
+        35, 
+        36, 
+        40, 
+        141, 
+        29
+      ], 
       "id": 32, 
-      "label": "PHYS 160"
+      "label": "PHYS 2B", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [
+        32, 
+        34, 
+        37, 
+        38, 
+        39, 
+        41, 
+        42, 
+        30, 
+        31
+      ], 
+      "edges_to": [
+        29
+      ], 
       "id": 33, 
-      "label": "PHYS 4C"
+      "label": "PHYS 163", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        40, 
+        33, 
+        35, 
+        36, 
+        29
+      ], 
       "id": 34, 
-      "label": "PHYS 4B"
+      "label": "PHYS 2D", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [
+        32, 
+        34, 
+        37, 
+        38, 
+        39, 
+        41, 
+        42, 
+        30, 
+        31
+      ], 
+      "edges_to": [
+        29
+      ], 
       "id": 35, 
-      "label": "PHYS 4A"
+      "label": "PHYS 161", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [
+        32, 
+        34, 
+        37, 
+        38, 
+        39, 
+        41, 
+        42, 
+        30, 
+        31
+      ], 
+      "edges_to": [
+        29
+      ], 
       "id": 36, 
-      "label": "PHYS 162"
+      "label": "PHYS 160", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        40, 
+        33, 
+        35, 
+        36, 
+        29
+      ], 
       "id": 37, 
-      "label": "PHYS 4E"
+      "label": "PHYS 4C", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        40, 
+        33, 
+        35, 
+        36, 
+        29
+      ], 
       "id": 38, 
-      "label": "PHYS 4D"
+      "label": "PHYS 4B", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        40, 
+        33, 
+        35, 
+        36, 
+        29
+      ], 
       "id": 39, 
-      "label": "CSE 222B"
+      "label": "PHYS 4A", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [
+        32, 
+        34, 
+        37, 
+        38, 
+        39, 
+        41, 
+        42, 
+        30, 
+        31
+      ], 
+      "edges_to": [
+        29
+      ], 
       "id": 40, 
-      "label": "CSE 222A"
+      "label": "PHYS 162", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        40, 
+        33, 
+        35, 
+        36, 
+        29
+      ], 
       "id": 41, 
-      "label": "CSE 123A"
+      "label": "PHYS 4E", 
+      "title": ""
     }, 
     {
+      "dept": "PHYS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        40, 
+        33, 
+        35, 
+        36, 
+        29
+      ], 
       "id": 42, 
-      "label": "CAT 199"
+      "label": "PHYS 4D", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [
+        44, 
+        45, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 43, 
-      "label": "CAT 1"
+      "label": "CSE 222B", 
+      "title": "Internet Algorithmics (4)"
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [
+        45, 
+        46
+      ], 
+      "edges_to": [
+        43
+      ], 
       "id": 44, 
-      "label": "CAT 3"
+      "label": "CSE 222A", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        43, 
+        44
+      ], 
       "id": 45, 
-      "label": "CAT 2"
+      "label": "CSE 123A", 
+      "title": ""
     }, 
     {
+      "dept": "INSTRUCTOR_APPROVAL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        128, 
+        131, 
+        137, 
+        138, 
+        140, 
+        150, 
+        169, 
+        43, 
+        44, 
+        177, 
+        54, 
+        56, 
+        57, 
+        58, 
+        61, 
+        64, 
+        81, 
+        85, 
+        86, 
+        88, 
+        89, 
+        91, 
+        106, 
+        109, 
+        110, 
+        113, 
+        124
+      ], 
       "id": 46, 
-      "label": "CAT 198"
+      "label": "INSTRUCTOR_APPROVAL", 
+      "title": ""
     }, 
     {
+      "dept": "CAT", 
+      "desc": "", 
+      "edges_from": [
+        48, 
+        49, 
+        50, 
+        51, 
+        52
+      ], 
+      "edges_to": [], 
       "id": 47, 
-      "label": "CAT 195"
+      "label": "CAT 199", 
+      "title": "Culture, Art, and Technology Independent Studies (4)"
     }, 
     {
+      "dept": "CAT", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        55, 
+        53, 
+        47
+      ], 
       "id": 48, 
-      "label": "CAT 197"
+      "label": "CAT 1", 
+      "title": ""
     }, 
     {
+      "dept": "FOR_TRANSFER_STUDENTS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        55, 
+        53, 
+        47
+      ], 
       "id": 49, 
-      "label": "CAT 192"
+      "label": "FOR_TRANSFER_STUDENTS", 
+      "title": ""
     }, 
     {
+      "dept": "CAT", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        167, 
+        168, 
+        47, 
+        53, 
+        55, 
+        154
+      ], 
       "id": 50, 
-      "label": "SE 198"
+      "label": "CAT 3", 
+      "title": ""
     }, 
     {
+      "dept": "CAT", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        167, 
+        168, 
+        47, 
+        53, 
+        55, 
+        154
+      ], 
       "id": 51, 
-      "label": "SE 199"
+      "label": "CAT 2", 
+      "title": ""
     }, 
     {
+      "dept": "UPPER_DIVISION_STANDING", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        128, 
+        131, 
+        99, 
+        68, 
+        86, 
+        70, 
+        72, 
+        74, 
+        76, 
+        47, 
+        81, 
+        82, 
+        79, 
+        53, 
+        54, 
+        55, 
+        56, 
+        59, 
+        93, 
+        150, 
+        85
+      ], 
       "id": 52, 
-      "label": "SE 195"
+      "label": "UPPER_DIVISION_STANDING", 
+      "title": ""
     }, 
     {
+      "dept": "CAT", 
+      "desc": "", 
+      "edges_from": [
+        48, 
+        49, 
+        50, 
+        51, 
+        52
+      ], 
+      "edges_to": [], 
       "id": 53, 
-      "label": "SE 197"
+      "label": "CAT 198", 
+      "title": "Culture, Art, and Technology Directed Group Studies (4)"
     }, 
     {
+      "dept": "CAT", 
+      "desc": "", 
+      "edges_from": [
+        52, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 54, 
-      "label": "BENG 126A"
+      "label": "CAT 195", 
+      "title": "Apprentice Teaching (4)"
     }, 
     {
+      "dept": "CAT", 
+      "desc": "", 
+      "edges_from": [
+        48, 
+        49, 
+        50, 
+        51, 
+        52
+      ], 
+      "edges_to": [], 
       "id": 55, 
-      "label": "BENG 187B"
+      "label": "CAT 197", 
+      "title": "Culture, Art, and Technology Field Studies (4)"
     }, 
     {
+      "dept": "CAT", 
+      "desc": "", 
+      "edges_from": [
+        27, 
+        52, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 56, 
-      "label": "BENG 126B"
+      "label": "CAT 192", 
+      "title": "Senior Seminar in Culture, Art, and Technology (1)"
     }, 
     {
+      "dept": "SE", 
+      "desc": "", 
+      "edges_from": [
+        27, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 57, 
-      "label": "BENG 187C"
+      "label": "SE 198", 
+      "title": "Directed Study Group (4)"
     }, 
     {
+      "dept": "SE", 
+      "desc": "", 
+      "edges_from": [
+        27, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 58, 
-      "label": "ANTH 23"
+      "label": "SE 199", 
+      "title": "Independent Study (1\u20134)"
     }, 
     {
+      "dept": "SE", 
+      "desc": "", 
+      "edges_from": [
+        27, 
+        52
+      ], 
+      "edges_to": [], 
       "id": 59, 
-      "label": "ANTH 21"
+      "label": "SE 195", 
+      "title": "Teaching (2\u20134)"
     }, 
     {
+      "dept": "SE", 
+      "desc": "", 
+      "edges_from": [
+        27
+      ], 
+      "edges_to": [], 
       "id": 60, 
-      "label": "SOCI 154"
+      "label": "SE 197", 
+      "title": "Engineering Internship (1\u20134)"
     }, 
     {
+      "dept": "BENG", 
+      "desc": "", 
+      "edges_from": [
+        46, 
+        62, 
+        63
+      ], 
+      "edges_to": [
+        64
+      ], 
       "id": 61, 
-      "label": "SOCC 154"
+      "label": "BENG 126A", 
+      "title": "Design Development in Bioinformatics Bioengineering (3)"
     }, 
     {
+      "dept": "BIOENGINEERING_OR_BIOTECH_MAJORS_ONLY", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        64, 
+        61
+      ], 
       "id": 62, 
-      "label": "SOCI 155"
+      "label": "BIOENGINEERING_OR_BIOTECH_MAJORS_ONLY", 
+      "title": ""
     }, 
     {
+      "dept": "BENG", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        61
+      ], 
       "id": 63, 
-      "label": "SOCC 155"
+      "label": "BENG 187B", 
+      "title": ""
     }, 
     {
+      "dept": "BENG", 
+      "desc": "", 
+      "edges_from": [
+        65, 
+        62, 
+        61, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 64, 
-      "label": "SOCI 156"
+      "label": "BENG 126B", 
+      "title": "Design Implementation in Bioinformatics Bioengineering (3)"
     }, 
     {
+      "dept": "BENG", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        64
+      ], 
       "id": 65, 
-      "label": "SOCC 156"
+      "label": "BENG 187C", 
+      "title": ""
     }, 
     {
+      "dept": "ANTH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        99
+      ], 
       "id": 66, 
-      "label": "SOCI 157"
+      "label": "ANTH 23", 
+      "title": "Debating Multiculturalism: Race, Ethnicity, and Class in American Societies (4)"
     }, 
     {
+      "dept": "ANTH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        99
+      ], 
       "id": 67, 
-      "label": "SOCC 157"
+      "label": "ANTH 21", 
+      "title": "Race and Racisms (4)"
     }, 
     {
+      "dept": "SOCI", 
+      "desc": "", 
+      "edges_from": [
+        52, 
+        68, 
+        69
+      ], 
+      "edges_to": [
+        68
+      ], 
       "id": 68, 
-      "label": "SOCI 150"
+      "label": "SOCI 154", 
+      "title": "Religious Institutions in America (4)"
     }, 
     {
+      "dept": "SOCC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        68
+      ], 
       "id": 69, 
-      "label": "SOCC 150"
+      "label": "SOCC 154", 
+      "title": ""
     }, 
     {
+      "dept": "SOCI", 
+      "desc": "", 
+      "edges_from": [
+        52, 
+        70, 
+        71
+      ], 
+      "edges_to": [
+        70
+      ], 
       "id": 70, 
-      "label": "GPPA 405"
+      "label": "SOCI 155", 
+      "title": "The City of San Diego (4)"
     }, 
     {
+      "dept": "SOCC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        70
+      ], 
       "id": 71, 
-      "label": "SOCI 152"
+      "label": "SOCC 155", 
+      "title": ""
     }, 
     {
+      "dept": "SOCI", 
+      "desc": "", 
+      "edges_from": [
+        72, 
+        73, 
+        52
+      ], 
+      "edges_to": [
+        72
+      ], 
       "id": 72, 
-      "label": "SOCC 152"
+      "label": "SOCI 156", 
+      "title": "Sociology of Religion (4)"
     }, 
     {
+      "dept": "SOCC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        72
+      ], 
       "id": 73, 
-      "label": "Linguistics/Heritage Languages (LIHL) 132F"
+      "label": "SOCC 156", 
+      "title": ""
     }, 
     {
+      "dept": "SOCI", 
+      "desc": "", 
+      "edges_from": [
+        74, 
+        75, 
+        52
+      ], 
+      "edges_to": [
+        74
+      ], 
       "id": 74, 
-      "label": "SOCI 158"
+      "label": "SOCI 157", 
+      "title": "Religion in Contemporary Society (4)"
     }, 
     {
+      "dept": "SOCC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        74
+      ], 
       "id": 75, 
-      "label": "SOCD 158"
+      "label": "SOCC 157", 
+      "title": ""
     }, 
     {
+      "dept": "SOCI", 
+      "desc": "", 
+      "edges_from": [
+        52, 
+        76, 
+        77
+      ], 
+      "edges_to": [
+        76
+      ], 
       "id": 76, 
-      "label": "SOCI 159"
+      "label": "SOCI 150", 
+      "title": "Madness and the Movies (4)"
     }, 
     {
+      "dept": "SOCC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        76
+      ], 
       "id": 77, 
-      "label": "Linguistics/Heritage Languages (LIHL) 132P"
+      "label": "SOCC 150", 
+      "title": ""
     }, 
     {
+      "dept": "GPPA", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 78, 
-      "label": "Linguistics/Heritage Languages (LIHL) 132W"
+      "label": "GPPA 405", 
+      "title": "Managing the Distributive Politics of Public Policy (4)"
     }, 
     {
+      "dept": "SOCI", 
+      "desc": "", 
+      "edges_from": [
+        80, 
+        52, 
+        79
+      ], 
+      "edges_to": [
+        79
+      ], 
       "id": 79, 
-      "label": "HDP 160"
+      "label": "SOCI 152", 
+      "title": "Social Inequality and Public Policy (4)"
     }, 
     {
+      "dept": "SOCC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        79
+      ], 
       "id": 80, 
-      "label": "MATH 260B"
+      "label": "SOCC 152", 
+      "title": ""
     }, 
     {
+      "dept": "Linguistics/Heritage", 
+      "desc": "", 
+      "edges_from": [
+        52, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 81, 
-      "label": "MATH 260A"
+      "label": "Linguistics/Heritage Languages (LIHL) 132F", 
+      "title": "Advanced Filipino for Filipino Speakers (4)"
     }, 
     {
+      "dept": "SOCI", 
+      "desc": "", 
+      "edges_from": [
+        82, 
+        83, 
+        52
+      ], 
+      "edges_to": [
+        82
+      ], 
       "id": 82, 
-      "label": "POLI 130B"
+      "label": "SOCI 158", 
+      "title": "Islam in the Modern World (4)"
     }, 
     {
+      "dept": "SOCD", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        82
+      ], 
       "id": 83, 
-      "label": "SE 99H"
+      "label": "SOCD 158", 
+      "title": ""
     }, 
     {
+      "dept": "SOCI", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 84, 
-      "label": "ANTH 147"
+      "label": "SOCI 159", 
+      "title": "Special"
     }, 
     {
+      "dept": "Linguistics/Heritage", 
+      "desc": "", 
+      "edges_from": [
+        52, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 85, 
-      "label": "HITO 103S"
+      "label": "Linguistics/Heritage Languages (LIHL) 132P", 
+      "title": "Advanced Filipino for Filipino Speakers (4)"
     }, 
     {
+      "dept": "Linguistics/Heritage", 
+      "desc": "", 
+      "edges_from": [
+        52, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 86, 
-      "label": "HIUS 156D"
+      "label": "Linguistics/Heritage Languages (LIHL) 132W", 
+      "title": "Advanced Filipino for Filipino Speakers (4)"
     }, 
     {
+      "dept": "HDP", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 87, 
-      "label": "MAE 110"
+      "label": "HDP 160", 
+      "title": "Special"
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [
+        89, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 88, 
-      "label": "MAE 110A"
+      "label": "MATH 260B", 
+      "title": "Mathematical Logic II (4)"
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [
+        18, 
+        46
+      ], 
+      "edges_to": [
+        88
+      ], 
       "id": 89, 
-      "label": "MAE 11"
+      "label": "MATH 260A", 
+      "title": ""
     }, 
     {
+      "dept": "POLI", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 90, 
-      "label": "ANSC 191GS"
+      "label": "POLI 130B", 
+      "title": "Politics in the People\u2019s Republic of China (4)"
     }, 
     {
+      "dept": "SE", 
+      "desc": "", 
+      "edges_from": [
+        27, 
+        92, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 91, 
-      "label": "ANSC 148"
+      "label": "SE 99H", 
+      "title": "Independent Study (1)"
     }, 
     {
+      "dept": "REQUIRES_FIRST_YEAR_STUDENT", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        91
+      ], 
       "id": 92, 
-      "label": "ANTH 103"
+      "label": "REQUIRES_FIRST_YEAR_STUDENT", 
+      "title": ""
     }, 
     {
+      "dept": "ANTH", 
+      "desc": "", 
+      "edges_from": [
+        52
+      ], 
+      "edges_to": [], 
       "id": 93, 
-      "label": "ANSC 155"
+      "label": "ANTH 147", 
+      "title": "Understanding the Human Social Order: Anthropology and the Long-Term (4)"
     }, 
     {
+      "dept": "HITO", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 94, 
-      "label": "ANTH 1"
+      "label": "HITO 103S", 
+      "title": "Gnosis and Gnosticism (4)"
     }, 
     {
+      "dept": "HIUS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 95, 
-      "label": "ANSC 164"
+      "label": "HIUS 156D", 
+      "title": "American Women, American Womanhood (4)"
     }, 
     {
+      "dept": "MAE", 
+      "desc": "", 
+      "edges_from": [
+        97, 
+        98
+      ], 
+      "edges_to": [], 
       "id": 96, 
-      "label": "ANSC 121"
+      "label": "MAE 110", 
+      "title": "Thermodynamic Systems (4)"
     }, 
     {
+      "dept": "MAE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        96
+      ], 
       "id": 97, 
-      "label": "MAE 118"
+      "label": "MAE 110A", 
+      "title": ""
     }, 
     {
+      "dept": "MAE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        96
+      ], 
       "id": 98, 
-      "label": "CENG 101A"
+      "label": "MAE 11", 
+      "title": ""
     }, 
     {
+      "dept": "ANSC", 
+      "desc": "", 
+      "edges_from": [
+        66, 
+        67, 
+        100, 
+        101, 
+        102, 
+        103, 
+        104, 
+        105, 
+        52, 
+        27
+      ], 
+      "edges_to": [], 
       "id": 99, 
-      "label": "MAE 101A"
+      "label": "ANSC 191GS", 
+      "title": "Everyday Life in South Asia: Beyond the Clich\u00e9s (4)"
     }, 
     {
+      "dept": "ANSC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        99
+      ], 
       "id": 100, 
-      "label": "MAE 119"
+      "label": "ANSC 148", 
+      "title": ""
     }, 
     {
+      "dept": "ANTH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        99
+      ], 
       "id": 101, 
-      "label": "PHIL 207"
+      "label": "ANTH 103", 
+      "title": ""
     }, 
     {
+      "dept": "ANSC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        99
+      ], 
       "id": 102, 
-      "label": "PHIL 200"
+      "label": "ANSC 155", 
+      "title": ""
     }, 
     {
+      "dept": "ANTH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        99
+      ], 
       "id": 103, 
-      "label": "PHIL 202"
+      "label": "ANTH 1", 
+      "title": ""
     }, 
     {
+      "dept": "ANSC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        99
+      ], 
       "id": 104, 
-      "label": "PHIL 208"
+      "label": "ANSC 164", 
+      "title": ""
     }, 
     {
+      "dept": "ANSC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        99
+      ], 
       "id": 105, 
-      "label": "CLRE 257"
+      "label": "ANSC 121", 
+      "title": ""
     }, 
     {
+      "dept": "MAE", 
+      "desc": "", 
+      "edges_from": [
+        107, 
+        108, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 106, 
-      "label": "CLRE 251"
+      "label": "MAE 118", 
+      "title": "Introduction to Energy Systems (4)"
     }, 
     {
+      "dept": "CENG", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        106, 
+        109
+      ], 
       "id": 107, 
-      "label": "CLRE 256"
+      "label": "CENG 101A", 
+      "title": ""
     }, 
     {
+      "dept": "MAE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        106, 
+        109
+      ], 
       "id": 108, 
-      "label": "CLRE 250"
+      "label": "MAE 101A", 
+      "title": ""
     }, 
     {
+      "dept": "MAE", 
+      "desc": "", 
+      "edges_from": [
+        107, 
+        108, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 109, 
-      "label": "CLRE 255"
+      "label": "MAE 119", 
+      "title": "Introduction to Renewable Energy: Solar and Wind (4)"
     }, 
     {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [
+        18, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 110, 
-      "label": "CLRE 254"
+      "label": "PHIL 207", 
+      "title": "Core Course in Philosophy of Mind (4)"
     }, 
     {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 111, 
-      "label": "CLRE 253"
+      "label": "PHIL 200", 
+      "title": "Proseminar (4)"
     }, 
     {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 112, 
-      "label": "CLRE 252"
+      "label": "PHIL 202", 
+      "title": "Core Course in Ethics (4)"
     }, 
     {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [
+        18, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 113, 
-      "label": "MUS 234"
+      "label": "PHIL 208", 
+      "title": "Core Course in Philosophy of Language (4)"
     }, 
     {
+      "dept": "CLRE", 
+      "desc": "", 
+      "edges_from": [
+        115
+      ], 
+      "edges_to": [], 
       "id": 114, 
-      "label": "MUS 230"
+      "label": "CLRE 257", 
+      "title": "Epidemiology II (2)"
     }, 
     {
+      "dept": "CLRE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        114
+      ], 
       "id": 115, 
-      "label": "CLRE 259"
+      "label": "CLRE 251", 
+      "title": ""
     }, 
     {
+      "dept": "CLRE", 
+      "desc": "", 
+      "edges_from": [
+        117
+      ], 
+      "edges_to": [], 
       "id": 116, 
-      "label": "CLRE 258"
+      "label": "CLRE 256", 
+      "title": "Patient-Oriented Research II (2)"
     }, 
     {
+      "dept": "CLRE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        116
+      ], 
       "id": 117, 
-      "label": "Linguistics/Heritage Languages (LIHL) 114F"
+      "label": "CLRE 250", 
+      "title": ""
     }, 
     {
+      "dept": "CLRE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 118, 
-      "label": "VIS 281"
+      "label": "CLRE 255", 
+      "title": "Data Management and Informatics (2)"
     }, 
     {
+      "dept": "CLRE", 
+      "desc": "", 
+      "edges_from": [
+        120
+      ], 
+      "edges_to": [], 
       "id": 119, 
-      "label": "VIS 280"
+      "label": "CLRE 254", 
+      "title": "Biostatistics II (2)"
     }, 
     {
+      "dept": "CLRE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        119
+      ], 
       "id": 120, 
-      "label": "Linguistics/Heritage Languages (LIHL) 114W"
+      "label": "CLRE 253", 
+      "title": ""
     }, 
     {
+      "dept": "CLRE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 121, 
-      "label": "ECE 240A"
+      "label": "CLRE 252", 
+      "title": "Health Services Research (2)"
     }, 
     {
+      "dept": "MUS", 
+      "desc": "", 
+      "edges_from": [
+        123
+      ], 
+      "edges_to": [], 
       "id": 122, 
-      "label": "ECE 240C"
+      "label": "MUS 234", 
+      "title": "Symphonic Orchestra (4)"
     }, 
     {
+      "dept": "REQUIRES_AUDITION", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        122
+      ], 
       "id": 123, 
-      "label": "ECE 240B"
+      "label": "REQUIRES_AUDITION", 
+      "title": ""
     }, 
     {
+      "dept": "MUS", 
+      "desc": "", 
+      "edges_from": [
+        46
+      ], 
+      "edges_to": [], 
       "id": 124, 
-      "label": "HIUS 180/ETHN"
+      "label": "MUS 230", 
+      "title": "Chamber Music Performance (4)"
     }, 
     {
+      "dept": "CLRE", 
+      "desc": "", 
+      "edges_from": [
+        126
+      ], 
+      "edges_to": [], 
       "id": 125, 
-      "label": "BIMM 116B"
+      "label": "CLRE 259", 
+      "title": "Scientific Communication Skills (2)"
     }, 
     {
+      "dept": "ADMITTED_MAS_CLINICAL_RESEARCH_PROGRAM", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        125, 
+        127
+      ], 
       "id": 126, 
-      "label": "BENG 267"
+      "label": "ADMITTED_MAS_CLINICAL_RESEARCH_PROGRAM", 
+      "title": ""
     }, 
     {
+      "dept": "CLRE", 
+      "desc": "", 
+      "edges_from": [
+        126
+      ], 
+      "edges_to": [], 
       "id": 127, 
-      "label": "TDDM 100"
+      "label": "CLRE 258", 
+      "title": "Professional Development in Clinical Research (2)"
     }, 
     {
+      "dept": "Linguistics/Heritage", 
+      "desc": "", 
+      "edges_from": [
+        52, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 128, 
-      "label": "TDDM 1"
+      "label": "Linguistics/Heritage Languages (LIHL) 114F", 
+      "title": "Vietnamese for Vietnamese Speakers (4)"
     }, 
     {
+      "dept": "VIS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 129, 
-      "label": "TDDM 101"
+      "label": "VIS 281", 
+      "title": "Curatorial Practice (4)"
     }, 
     {
+      "dept": "VIS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 130, 
-      "label": "NANO 101"
+      "label": "VIS 280", 
+      "title": "Workshop in Critical Writing (4)"
     }, 
     {
+      "dept": "Linguistics/Heritage", 
+      "desc": "", 
+      "edges_from": [
+        52, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 131, 
-      "label": "CENG 15"
+      "label": "Linguistics/Heritage Languages (LIHL) 114W", 
+      "title": "Vietnamese for Vietnamese Speakers (4)"
     }, 
     {
+      "dept": "ECE", 
+      "desc": "", 
+      "edges_from": [
+        18
+      ], 
+      "edges_to": [
+        134
+      ], 
       "id": 132, 
-      "label": "MATH 20C"
+      "label": "ECE 240A", 
+      "title": "Lasers and Optics (4)"
     }, 
     {
+      "dept": "ECE", 
+      "desc": "", 
+      "edges_from": [
+        18, 
+        134
+      ], 
+      "edges_to": [], 
       "id": 133, 
-      "label": "CHEM 6B"
+      "label": "ECE 240C", 
+      "title": "Optical Modulation and Detection (4)"
     }, 
     {
+      "dept": "ECE", 
+      "desc": "", 
+      "edges_from": [
+        18, 
+        132
+      ], 
+      "edges_to": [
+        133
+      ], 
       "id": 134, 
-      "label": "MAE 8"
+      "label": "ECE 240B", 
+      "title": ""
     }, 
     {
+      "dept": "HIUS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 135, 
-      "label": "NANO 15"
+      "label": "HIUS 180/ETHN", 
+      "title": ""
     }, 
     {
+      "dept": "BIMM", 
+      "desc": "", 
+      "edges_from": [
+        27
+      ], 
+      "edges_to": [], 
       "id": 136, 
-      "label": "LTCS 120"
+      "label": "BIMM 116B", 
+      "title": "BioClock Studio (4)"
     }, 
     {
+      "dept": "BENG", 
+      "desc": "", 
+      "edges_from": [
+        46
+      ], 
+      "edges_to": [], 
       "id": 137, 
-      "label": "LTCS 125"
+      "label": "BENG 267", 
+      "title": "Microcirculation in Health and Disease (4)"
     }, 
     {
+      "dept": "TDDM", 
+      "desc": "", 
+      "edges_from": [
+        139, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 138, 
-      "label": "ECON 222A-B-C"
+      "label": "TDDM 100", 
+      "title": "Dance Making 1 (4)"
     }, 
     {
+      "dept": "TDDM", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        138, 
+        140
+      ], 
       "id": 139, 
-      "label": "ANSC 125GS"
+      "label": "TDDM 1", 
+      "title": ""
     }, 
     {
+      "dept": "TDDM", 
+      "desc": "", 
+      "edges_from": [
+        139, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 140, 
-      "label": "HIEU 154XL"
+      "label": "TDDM 101", 
+      "title": "Dance Making 2 (4)"
     }, 
     {
+      "dept": "NANO", 
+      "desc": "", 
+      "edges_from": [
+        32, 
+        142, 
+        143, 
+        144, 
+        145, 
+        146, 
+        27
+      ], 
+      "edges_to": [], 
       "id": 141, 
-      "label": "CSE 203A"
+      "label": "NANO 101", 
+      "title": "Introduction to NanoEngineering (4)"
     }, 
     {
+      "dept": "CENG", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        141
+      ], 
       "id": 142, 
-      "label": "CSE 202"
+      "label": "CENG 15", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        141
+      ], 
       "id": 143, 
-      "label": "LTWR 8B"
+      "label": "MATH 20C", 
+      "title": ""
     }, 
     {
+      "dept": "CHEM", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        141
+      ], 
       "id": 144, 
-      "label": "MCWP 40"
+      "label": "CHEM 6B", 
+      "title": ""
     }, 
     {
+      "dept": "MAE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        141
+      ], 
       "id": 145, 
-      "label": "MCWP 50"
+      "label": "MAE 8", 
+      "title": ""
     }, 
     {
+      "dept": "NANO", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        141
+      ], 
       "id": 146, 
-      "label": "WARR 11B"
+      "label": "NANO 15", 
+      "title": ""
     }, 
     {
+      "dept": "LTCS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 147, 
-      "label": "WCWP 10A"
+      "label": "LTCS 120", 
+      "title": "Historical Perspectives on Culture (4)"
     }, 
     {
+      "dept": "LTCS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 148, 
-      "label": "WARR 11A"
+      "label": "LTCS 125", 
+      "title": "Cultural"
     }, 
     {
+      "dept": "ECON", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 149, 
-      "label": "WCWP 10B"
+      "label": "ECON 222A-B-C", 
+      "title": "Workshop in Econometrics (4-4-4)"
     }, 
     {
+      "dept": "ANSC", 
+      "desc": "", 
+      "edges_from": [
+        52, 
+        46
+      ], 
+      "edges_to": [], 
       "id": 150, 
-      "label": "DOC 3"
+      "label": "ANSC 125GS", 
+      "title": "Gender, Sexuality, and Society (4)"
     }, 
     {
+      "dept": "HIEU", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 151, 
-      "label": "DOC 2"
+      "label": "HIEU 154XL", 
+      "title": "HIEU 154 Foreign Language Section (4)"
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [
+        153
+      ], 
+      "edges_to": [], 
       "id": 152, 
-      "label": "HUM 1"
+      "label": "CSE 203A", 
+      "title": "Advanced Algorithms (4)"
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        152
+      ], 
       "id": 153, 
-      "label": "HUM 2"
+      "label": "CSE 202", 
+      "title": ""
     }, 
     {
+      "dept": "LTWR", 
+      "desc": "", 
+      "edges_from": [
+        160, 
+        161, 
+        162, 
+        163, 
+        164, 
+        165, 
+        166, 
+        50, 
+        51, 
+        155, 
+        156, 
+        157, 
+        158, 
+        159
+      ], 
+      "edges_to": [], 
       "id": 154, 
-      "label": "MMW 12"
+      "label": "LTWR 8B", 
+      "title": "Writing Poetry (4)"
     }, 
     {
+      "dept": "MCWP", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
       "id": 155, 
-      "label": "MMW 13"
+      "label": "MCWP 40", 
+      "title": ""
     }, 
     {
+      "dept": "MCWP", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
       "id": 156, 
-      "label": "LTWR 8C"
+      "label": "MCWP 50", 
+      "title": ""
     }, 
     {
+      "dept": "WARR", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
       "id": 157, 
-      "label": "LTWR 8A"
+      "label": "WARR 11B", 
+      "title": ""
     }, 
     {
+      "dept": "WCWP", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
       "id": 158, 
-      "label": "BIOM 231"
+      "label": "WCWP 10A", 
+      "title": ""
     }, 
     {
+      "dept": "WARR", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
       "id": 159, 
-      "label": "BIOM 232"
+      "label": "WARR 11A", 
+      "title": ""
     }, 
     {
+      "dept": "WCWP", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
       "id": 160, 
-      "label": "BIOM 233"
+      "label": "WCWP 10B", 
+      "title": ""
     }, 
     {
+      "dept": "DOC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
       "id": 161, 
-      "label": "BIOM 234"
+      "label": "DOC 3", 
+      "title": ""
     }, 
     {
+      "dept": "DOC", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
       "id": 162, 
-      "label": "BIOM 235"
+      "label": "DOC 2", 
+      "title": ""
     }, 
     {
+      "dept": "HUM", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
       "id": 163, 
-      "label": "HIGR"
+      "label": "HUM 1", 
+      "title": ""
     }, 
     {
+      "dept": "HUM", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
       "id": 164, 
-      "label": "ENVR 87"
+      "label": "HUM 2", 
+      "title": ""
+    }, 
+    {
+      "dept": "MMW", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
+      "id": 165, 
+      "label": "MMW 12", 
+      "title": ""
+    }, 
+    {
+      "dept": "MMW", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        168, 
+        154, 
+        167
+      ], 
+      "id": 166, 
+      "label": "MMW 13", 
+      "title": ""
+    }, 
+    {
+      "dept": "LTWR", 
+      "desc": "", 
+      "edges_from": [
+        160, 
+        161, 
+        162, 
+        163, 
+        164, 
+        165, 
+        166, 
+        50, 
+        51, 
+        155, 
+        156, 
+        157, 
+        158, 
+        159
+      ], 
+      "edges_to": [], 
+      "id": 167, 
+      "label": "LTWR 8C", 
+      "title": "Writing Nonfiction (4)"
+    }, 
+    {
+      "dept": "LTWR", 
+      "desc": "", 
+      "edges_from": [
+        160, 
+        161, 
+        162, 
+        163, 
+        164, 
+        165, 
+        166, 
+        50, 
+        51, 
+        155, 
+        156, 
+        157, 
+        158, 
+        159
+      ], 
+      "edges_to": [], 
+      "id": 168, 
+      "label": "LTWR 8A", 
+      "title": "Writing Fiction (4)"
+    }, 
+    {
+      "dept": "BIOM", 
+      "desc": "", 
+      "edges_from": [
+        46
+      ], 
+      "edges_to": [], 
+      "id": 169, 
+      "label": "BIOM 231", 
+      "title": "Contemporary Topics in Pharmacology (2)"
+    }, 
+    {
+      "dept": "BIOM", 
+      "desc": "", 
+      "edges_from": [
+        18
+      ], 
+      "edges_to": [], 
+      "id": 170, 
+      "label": "BIOM 232", 
+      "title": "In vivo Cellular and Molecular Imaging (1)"
+    }, 
+    {
+      "dept": "BIOM", 
+      "desc": "", 
+      "edges_from": [
+        18
+      ], 
+      "edges_to": [], 
+      "id": 171, 
+      "label": "BIOM 233", 
+      "title": "Structural Biology in Cell Signaling and Drug Discovery (2)"
+    }, 
+    {
+      "dept": "BIOM", 
+      "desc": "", 
+      "edges_from": [
+        176, 
+        173, 
+        174, 
+        175
+      ], 
+      "edges_to": [], 
+      "id": 172, 
+      "label": "BIOM 234", 
+      "title": "Practical Histopathology and Mouse Models of Human Diseases (2)"
+    }, 
+    {
+      "dept": "BICD", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        172
+      ], 
+      "id": 173, 
+      "label": "BICD 1", 
+      "title": ""
+    }, 
+    {
+      "dept": "BICD", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        172
+      ], 
+      "id": 174, 
+      "label": "BICD 2", 
+      "title": ""
+    }, 
+    {
+      "dept": "BICD", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        172
+      ], 
+      "id": 175, 
+      "label": "BICD 3", 
+      "title": ""
+    }, 
+    {
+      "dept": "BICD", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        172
+      ], 
+      "id": 176, 
+      "label": "BICD 4", 
+      "title": ""
+    }, 
+    {
+      "dept": "BIOM", 
+      "desc": "", 
+      "edges_from": [
+        46
+      ], 
+      "edges_to": [], 
+      "id": 177, 
+      "label": "BIOM 235", 
+      "title": "Pharmacogenomics (3)"
+    }, 
+    {
+      "dept": "HIGR", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
+      "id": 178, 
+      "label": "HIGR", 
+      "title": ""
+    }, 
+    {
+      "dept": "ENVR", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
+      "id": 179, 
+      "label": "ENVR 87", 
+      "title": "Environmental Studies Freshman Seminar (1)"
     }
   ]
 }

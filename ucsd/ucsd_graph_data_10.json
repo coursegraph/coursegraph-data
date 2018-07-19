@@ -37,32 +37,28 @@
       "to": 0
     }, 
     {
-      "from": 0, 
-      "to": 10
+      "from": 10, 
+      "to": 0
     }, 
     {
-      "from": 11, 
-      "to": 10
+      "from": 0, 
+      "to": 11
     }, 
     {
       "from": 12, 
-      "to": 10
+      "to": 11
     }, 
     {
       "from": 13, 
-      "to": 10
+      "to": 11
     }, 
     {
       "from": 14, 
-      "to": 10
+      "to": 11
     }, 
     {
       "from": 15, 
-      "to": 10
-    }, 
-    {
-      "from": 2, 
-      "to": 10
+      "to": 11
     }, 
     {
       "from": 16, 
@@ -71,104 +67,355 @@
     {
       "from": 17, 
       "to": 11
+    }, 
+    {
+      "from": 2, 
+      "to": 11
+    }, 
+    {
+      "from": 18, 
+      "to": 13
+    }, 
+    {
+      "from": 19, 
+      "to": 13
+    }, 
+    {
+      "from": 20, 
+      "to": 13
+    }, 
+    {
+      "from": 18, 
+      "to": 26
+    }, 
+    {
+      "from": 27, 
+      "to": 26
     }
   ], 
   "nodes": [
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [
+        1, 
+        2, 
+        3, 
+        4, 
+        5, 
+        6, 
+        7, 
+        8, 
+        9, 
+        10
+      ], 
+      "edges_to": [
+        11
+      ], 
       "id": 0, 
-      "label": "CSE 105"
+      "label": "CSE 105", 
+      "title": "Theory of Computability (4)"
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 1, 
-      "label": "CSE 12"
+      "label": "CSE 12", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0, 
+        11
+      ], 
       "id": 2, 
-      "label": "CSE 21"
+      "label": "CSE 21", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 3, 
-      "label": "CSE 20"
+      "label": "CSE 20", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 4, 
-      "label": "MATH 184"
+      "label": "MATH 184", 
+      "title": ""
     }, 
     {
+      "dept": "SENIOR_STANDING", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 5, 
-      "label": "CSE 15L"
+      "label": "SENIOR_STANDING", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 6, 
-      "label": "MATH 100A"
+      "label": "CSE 15L", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 7, 
-      "label": "MATH 109"
+      "label": "MATH 100A", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 8, 
-      "label": "MATH 103A"
+      "label": "MATH 109", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 9, 
-      "label": "MATH 15A"
+      "label": "MATH 103A", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        0
+      ], 
       "id": 10, 
-      "label": "CSE 107"
+      "label": "MATH 15A", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [
+        0, 
+        2, 
+        12, 
+        13, 
+        14, 
+        15, 
+        16, 
+        17
+      ], 
+      "edges_to": [], 
       "id": 11, 
-      "label": "CSE 101"
+      "label": "CSE 107", 
+      "title": "Introduction to Modern Cryptography (4)"
     }, 
     {
+      "dept": "OTHER_STUDENTS_ALLOWABLE_AS_SPACE_PERMITS", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        11
+      ], 
       "id": 12, 
-      "label": "MATH 184A"
+      "label": "OTHER_STUDENTS_ALLOWABLE_AS_SPACE_PERMITS", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [
+        18, 
+        19, 
+        20
+      ], 
+      "edges_to": [
+        11
+      ], 
       "id": 13, 
-      "label": "MATH 15B"
+      "label": "CSE 101", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        11
+      ], 
       "id": 14, 
-      "label": "MATH 166"
+      "label": "MATH 184A", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        11
+      ], 
       "id": 15, 
-      "label": "MATH 154"
+      "label": "MATH 15B", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        11
+      ], 
       "id": 16, 
-      "label": "MATH 176"
+      "label": "MATH 166", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        11
+      ], 
       "id": 17, 
-      "label": "CSE 100"
+      "label": "MATH 154", 
+      "title": ""
     }, 
     {
+      "dept": "GRADUATE_STANDING", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        26, 
+        13
+      ], 
       "id": 18, 
-      "label": "CSE 103"
+      "label": "GRADUATE_STANDING", 
+      "title": ""
     }, 
     {
+      "dept": "MATH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        13
+      ], 
       "id": 19, 
-      "label": "GLBH 20"
+      "label": "MATH 176", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        13
+      ], 
       "id": 20, 
-      "label": "PHIL 33"
+      "label": "CSE 100", 
+      "title": ""
     }, 
     {
+      "dept": "CSE", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 21, 
-      "label": "PHIL 32"
+      "label": "CSE 103", 
+      "title": "A Practical"
     }, 
     {
+      "dept": "GLBH", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 22, 
-      "label": "PHIL 31"
+      "label": "GLBH 20", 
+      "title": "Introduction to Global Health (4)"
     }, 
     {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
       "id": 23, 
-      "label": "HIEU 172/272"
+      "label": "PHIL 33", 
+      "title": "Philosophy between Reason and Despair (4)"
+    }, 
+    {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
+      "id": 24, 
+      "label": "PHIL 32", 
+      "title": "Philosophy and the Rise of Modern Science  (4)"
+    }, 
+    {
+      "dept": "PHIL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [], 
+      "id": 25, 
+      "label": "PHIL 31", 
+      "title": "Introduction"
+    }, 
+    {
+      "dept": "HIEU", 
+      "desc": "", 
+      "edges_from": [
+        18, 
+        27
+      ], 
+      "edges_to": [], 
+      "id": 26, 
+      "label": "HIEU 172/272", 
+      "title": "Comparative European Fascism (4)"
+    }, 
+    {
+      "dept": "DEPARTMENT_APPROVAL", 
+      "desc": "", 
+      "edges_from": [], 
+      "edges_to": [
+        26
+      ], 
+      "id": 27, 
+      "label": "DEPARTMENT_APPROVAL", 
+      "title": ""
     }
   ]
 }
